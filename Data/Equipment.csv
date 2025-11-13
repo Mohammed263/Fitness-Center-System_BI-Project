@@ -1,0 +1,236 @@
+ID, Name,Category,Purchase Date,Status,Branch ID
+40001,Leg Curl Machine (Lying),Leg Machines,2021-01-06,Operational,1
+40002,Glute Kickback Machine,Leg Machines,2020-09-20,Operational,1
+40003,Plate Loaded Squat Machine,Leg Machines,2020-09-29,Under Maintenance,1
+40004,Incline Chest Press Machine,Chest / Upper Body Machines,2020-09-20,Operational,1
+40005,Assisted Pull-Up / Dip Machine,Back Machines,2020-08-25,Operational,1
+40006,Selectorized Bicep Curl Machine,Shoulder / Arm Machines,2020-09-11,Operational,1
+40007,Power Rack,Functional / Multi-Station Equipment,2021-01-01,Operational,1
+40008,Seated Row Machine,Back Machines,2020-08-22,Under Maintenance,1
+40009,Chest Fly / Rear Delt Combo Machine,Chest / Upper Body Machines,2020-10-10,Operational,1
+40010,Plate Loaded Tricep Extension Machine,Shoulder / Arm Machines,2021-01-07,Operational,1
+40011,Smith Machine,Functional / Multi-Station Equipment,2020-09-24,Operational,1
+40012,Lat Pulldown Machine,Back Machines,2020-09-12,Operational,1
+40013,Leg Press Machine,Leg Machines,2020-09-24,Operational,1
+40014,Calf Raise Machine (Seated),Leg Machines,2020-10-28,Under Maintenance,1
+40015,Linear Leg Press (45°),Leg Machines,2020-10-26,Operational,1
+40016,Cable Crossover Machine,Functional / Multi-Station Equipment,2020-08-06,Operational,1
+40017,Plate Loaded Chest Press Machine,Chest / Upper Body Machines,2020-10-08,Operational,1
+40018,Squat Rack,Leg Machines,2020-10-30,Under Maintenance,1
+40019,Abdominal Machine,Core / Abs Machines,2020-11-14,Operational,1
+40020,Power Tower (Pull-up / Dip Station),Functional / Multi-Station Equipment,2020-08-05,Operational,1
+40021,Pec Deck (Butterfly Machine),Chest / Upper Body Machines,2020-09-26,Under Maintenance,1
+40022,Calf Raise Machine (Standing),Leg Machines,2020-11-25,Operational,1
+40023,Rear Delt Machine,Back Machines,2020-12-07,Operational,1
+40024,Plate Loaded Row Machine,Back Machines,2020-11-07,Operational,1
+40025,Incline Lever Row Machine,Back Machines,2020-10-20,Operational,1
+40026,Smith Combo Rack,Functional / Multi-Station Equipment,2021-01-13,Operational,1
+40027,Vertical Leg Press,Leg Machines,2020-08-26,Operational,1
+40028,Assisted Chin / Dip Combo Machine,Back Machines,2020-07-31,Under Maintenance,1
+40029,Leg Extension Machine,Leg Machines,2020-09-23,Operational,1
+40030,Chest Press Machine,Chest / Upper Body Machines,2021-01-07,Operational,1
+40031,Free Motion Dual Cable Machine,Functional / Multi-Station Equipment,2020-11-23,Operational,1
+40032,Standing Leg Curl Machine,Leg Machines,2021-01-03,Operational,1
+40033,Total Body Trainer,Functional / Multi-Station Equipment,2020-09-18,Operational,1
+40034,Back Extension Machine,Core / Abs Machines,2020-11-07,Operational,1
+40035,Power Rack,Functional / Multi-Station Equipment,2020-10-07,Operational,1
+40036,Plate Loaded Shoulder Press Machine,Shoulder / Arm Machines,2020-11-09,Operational,1
+40037,Smith Functional Trainer Combo,Functional / Multi-Station Equipment,2020-11-12,Operational,1
+40038,Assisted Squat Machine,Leg Machines,2020-12-21,Operational,1
+40039,Plate Loaded Deadlift Machine,Back Machines,2020-08-07,Operational,1
+40040,Seated Dip Machine,Shoulder / Arm Machines,2020-10-11,Operational,1
+40041,Leg Curl Machine (Seated),Leg Machines,2020-08-10,Operational,1
+40042,Belt Squat Machine,Leg Machines,2020-12-07,Operational,1
+40043,Cable Station 4 Stack,Functional / Multi-Station Equipment,2020-08-01,Operational,1
+40044,Smith Counterbalanced Machine,Functional / Multi-Station Equipment,2020-07-26,Operational,1
+40045,Glute Bridge Machine,Leg Machines,2020-09-21,Operational,1
+40046,Chest Press Machine,Chest / Upper Body Machines,2020-12-03,Operational,2
+40047,Incline Chest Press Machine,Chest / Upper Body Machines,2021-01-15,Operational,2
+40048,Decline Chest Press Machine,Chest / Upper Body Machines,2021-01-10,Operational,2
+40049,Pec Deck (Butterfly Machine),Chest / Upper Body Machines,2021-01-17,Operational,2
+40050,Shoulder Press Machine,Shoulder / Arm Machines,2020-10-22,Operational,2
+40051,Lateral Raise Machine,Shoulder / Arm Machines,2021-01-06,Operational,2
+40052,Rear Delt Machine,Back Machines,2020-11-05,Operational,2
+40053,Seated Row Machine,Back Machines,2020-12-19,Operational,2
+40054,Lat Pulldown Machine,Back Machines,2021-01-28,Operational,2
+40055,Cable Crossover Machine,Functional / Multi-Station Equipment,2020-11-25,Operational,2
+40056,Dual Adjustable Pulley Machine,Functional / Multi-Station Equipment,2021-01-19,Operational,2
+40057,Smith Machine,Functional / Multi-Station Equipment,2020-12-16,Operational,2
+40058,Power Rack,Functional / Multi-Station Equipment,2020-10-08,Operational,2
+40059,Squat Rack,Leg Machines,2020-11-20,Operational,2
+40060,Leg Press Machine,Leg Machines,2020-12-11,Operational,2
+40061,Hack Squat Machine,Leg Machines,2020-11-28,Operational,2
+40062,Leg Extension Machine,Leg Machines,2020-10-14,Operational,2
+40063,Leg Curl Machine (Seated),Leg Machines,2021-01-08,Operational,2
+40064,Leg Curl Machine (Lying),Leg Machines,2020-10-23,Operational,2
+40065,Calf Raise Machine (Standing),Leg Machines,2020-10-29,Operational,2
+40066,Calf Raise Machine (Seated),Leg Machines,2021-01-18,Operational,2
+40067,Glute Kickback Machine,Leg Machines,2020-10-13,Operational,2
+40068,Hip Abductor Machine,Leg Machines,2020-12-06,Operational,2
+40069,Hip Adductor Machine,Leg Machines,2021-02-07,Operational,2
+40070,Ab Crunch Machine,Core / Abs Machines,2020-10-12,Operational,2
+40071,Back Extension Machine,Core / Abs Machines,2021-02-12,Operational,2
+40072,Assisted Pull-Up / Dip Machine,Back Machines,2020-12-22,Under Maintenance,2
+40073,Multi-Station Gym Machine,Functional / Multi-Station Equipment,2021-01-03,Operational,2
+40074,Cable Station 4 Stack,Functional / Multi-Station Equipment,2020-11-12,Operational,2
+40075,Functional Trainer Machine,Functional / Multi-Station Equipment,2020-11-05,Operational,2
+40076,Smith Combo Rack,Functional / Multi-Station Equipment,2021-02-08,Operational,2
+40077,Linear Leg Press (45°),Leg Machines,2021-01-17,Operational,2
+40078,Vertical Leg Press,Leg Machines,2020-09-27,Under Maintenance,2
+40079,Plate Loaded Chest Press Machine,Chest / Upper Body Machines,2020-10-18,Operational,2
+40080,Plate Loaded Row Machine,Back Machines,2020-11-25,Operational,2
+40081,Plate Loaded Shoulder Press Machine,Shoulder / Arm Machines,2021-02-18,Operational,2
+40082,Plate Loaded Squat Machine,Leg Machines,2020-10-27,Operational,2
+40083,Plate Loaded Deadlift Machine,Back Machines,2021-01-16,Operational,2
+40084,Plate Loaded T-Bar Row Machine,Back Machines,2020-10-12,Operational,2
+40085,Plate Loaded Bicep Curl Machine,Shoulder / Arm Machines,2020-10-26,Operational,2
+40086,Plate Loaded Tricep Extension Machine,Shoulder / Arm Machines,2020-12-27,Operational,2
+40087,Standing Leg Curl Machine,Leg Machines,2020-11-26,Operational,2
+40088,Rotary Torso Machine,Core / Abs Machines,2021-01-03,Operational,2
+40089,Inner / Outer Thigh Machine,Leg Machines,2020-10-24,Operational,2
+40090,Glute Bridge Machine,Leg Machines,2021-01-03,Operational,2
+40091,Hip Thrust Machine,Leg Machines,2020-12-30,Operational,2
+40092,Abdominal Machine,Core / Abs Machines,2021-01-08,Operational,2
+40093,Total Body Trainer,Functional / Multi-Station Equipment,2021-01-25,Operational,2
+40094,Selectorized Bicep Curl Machine,Shoulder / Arm Machines,2020-12-11,Operational,2
+40095,Selectorized Tricep Press Machine,Shoulder / Arm Machines,2020-12-16,Operational,2
+40096,Standing Leg Curl Machine,Leg Machines,2020-11-19,Operational,3
+40097,Rotary Torso Machine,Core / Abs Machines,2020-11-04,Operational,3
+40098,Inner / Outer Thigh Machine,Leg Machines,2021-02-15,Operational,3
+40099,Glute Bridge Machine,Leg Machines,2021-03-17,Operational,3
+40100,Hip Thrust Machine,Leg Machines,2021-01-11,Under Maintenance,3
+40101,Abdominal Machine,Core / Abs Machines,2021-02-26,Operational,3
+40102,Lower Back Machine,Core / Abs Machines,2021-03-19,Operational,3
+40103,Total Body Trainer,Functional / Multi-Station Equipment,2020-11-05,Operational,3
+40104,Selectorized Bicep Curl Machine,Shoulder / Arm Machines,2020-11-13,Operational,3
+40105,Selectorized Tricep Press Machine,Shoulder / Arm Machines,2021-01-28,Operational,3
+40106,Cable Lat Pull Machine,Back Machines,2021-01-04,Operational,3
+40107,Assisted Chin / Dip Combo Machine,Back Machines,2020-12-22,Under Maintenance,3
+40108,Belt Squat Machine,Leg Machines,2021-01-21,Operational,3
+40109,Vertical Knee Raise Station,Functional / Multi-Station Equipment,2021-02-19,Operational,3
+40110,Leg Abduction / Adduction Combo Machine,Leg Machines,2020-11-17,Operational,3
+40111,Plate Loaded Iso-Lateral Row Machine,Back Machines,2020-11-13,Operational,3
+40112,Iso-Lateral Chest Press Machine,Chest / Upper Body Machines,2021-03-05,Operational,3
+40113,Iso-Lateral Shoulder Press Machine,Shoulder / Arm Machines,2021-02-07,Operational,3
+40114,Iso-Lateral Leg Press Machine,Leg Machines,2020-12-27,Operational,3
+40115,Iso-Lateral Pulldown Machine,Back Machines,2020-11-12,Operational,3
+40116,Iso-Lateral Low Row Machine,Back Machines,2021-01-16,Operational,3
+40117,Iso-Lateral Deadlift Machine,Back Machines,2021-01-05,Operational,3
+40118,Iso-Lateral Multi Press,Chest / Upper Body Machines,2020-10-23,Operational,3
+40119,Smith Functional Trainer Combo,Functional / Multi-Station Equipment,2021-01-06,Operational,3
+40120,Free Motion Dual Cable Machine,Functional / Multi-Station Equipment,2021-01-25,Operational,3
+40121,Chest Fly / Rear Delt Combo Machine,Chest / Upper Body Machines,2021-03-09,Operational,3
+40122,Pec Deck / Press Combo,Chest / Upper Body Machines,2021-02-02,Operational,3
+40123,Assisted Squat Machine,Leg Machines,2020-12-12,Operational,3
+40124,Smith Counterbalanced Machine,Functional / Multi-Station Equipment,2021-02-03,Operational,3
+40125,Incline Lever Row Machine,Back Machines,2020-11-01,Operational,3
+40126,Abdominal Crunch Bench (Machine Type),Core / Abs Machines,2020-12-26,Operational,3
+40127,Glute Ham Developer Machine,Leg Machines,2020-12-01,Operational,3
+40128,45° Back Extension Machine,Core / Abs Machines,2021-02-02,Operational,3
+40129,Standing Calf Press Machine,Leg Machines,2020-12-14,Operational,3
+40130,Selectorized Multi Hip Machine,Leg Machines,2020-12-13,Operational,3
+40131,Selectorized Rotary Torso Machine,Core / Abs Machines,2020-12-12,Operational,3
+40132,Seated Dip Machine,Shoulder / Arm Machines,2021-02-03,Operational,3
+40133,Lever Arm Shoulder Press,Shoulder / Arm Machines,2021-01-19,Operational,3
+40134,Power Tower (Pull-up / Dip Station),Functional / Multi-Station Equipment,2021-02-27,Operational,3
+40135,Chest Press Machine,Chest / Upper Body Machines,2020-11-30,Operational,3
+40136,Lat Pulldown Machine,Back Machines,2020-11-30,Operational,3
+40137,Leg Press Machine,Leg Machines,2021-01-18,Operational,3
+40138,Smith Machine,Functional / Multi-Station Equipment,2021-03-07,Operational,3
+40139,Cable Crossover Machine,Functional / Multi-Station Equipment,2021-01-31,Operational,3
+40140,Plate Loaded Chest Press Machine,Chest / Upper Body Machines,2020-10-30,Operational,3
+40141,Chest Press Machine,Chest / Upper Body Machines,2021-04-01,Operational,4
+40142,Incline Chest Press Machine,Chest / Upper Body Machines,2021-04-08,Operational,4
+40143,Decline Chest Press Machine,Chest / Upper Body Machines,2021-02-03,Operational,4
+40144,Pec Deck (Butterfly Machine),Chest / Upper Body Machines,2021-02-23,Operational,4
+40145,Shoulder Press Machine,Shoulder / Arm Machines,2020-12-21,Operational,4
+40146,Lateral Raise Machine,Shoulder / Arm Machines,2020-12-13,Operational,4
+40147,Rear Delt Machine,Back Machines,2021-02-14,Operational,4
+40148,Seated Row Machine,Back Machines,2021-04-09,Operational,4
+40149,Lat Pulldown Machine,Back Machines,2021-04-06,Operational,4
+40150,Cable Crossover Machine,Functional / Multi-Station Equipment,2021-03-14,Operational,4
+40151,Dual Adjustable Pulley Machine,Functional / Multi-Station Equipment,2020-12-07,Operational,4
+40152,Smith Machine,Functional / Multi-Station Equipment,2021-04-15,Operational,4
+40153,Power Rack,Functional / Multi-Station Equipment,2021-01-31,Operational,4
+40154,Squat Rack,Leg Machines,2021-04-06,Operational,4
+40155,Leg Press Machine,Leg Machines,2021-04-06,Operational,4
+40156,Hack Squat Machine,Leg Machines,2021-02-08,Operational,4
+40157,Leg Extension Machine,Leg Machines,2020-12-19,Operational,4
+40158,Leg Curl Machine (Seated),Leg Machines,2021-04-15,Operational,4
+40159,Leg Curl Machine (Lying),Leg Machines,2021-03-08,Operational,4
+40160,Calf Raise Machine (Standing),Leg Machines,2020-12-13,Operational,4
+40161,Calf Raise Machine (Seated),Leg Machines,2021-02-24,Operational,4
+40162,Glute Kickback Machine,Leg Machines,2020-12-14,Operational,4
+40163,Hip Abductor Machine,Leg Machines,2021-04-04,Operational,4
+40164,Hip Adductor Machine,Leg Machines,2021-03-11,Operational,4
+40165,Ab Crunch Machine,Core / Abs Machines,2020-12-10,Operational,4
+40166,Back Extension Machine,Core / Abs Machines,2021-01-14,Operational,4
+40167,Assisted Pull-Up / Dip Machine,Back Machines,2021-03-07,Under Maintenance,4
+40168,Multi-Station Gym Machine,Functional / Multi-Station Equipment,2021-01-07,Operational,4
+40169,Cable Station 4 Stack,Functional / Multi-Station Equipment,2020-11-26,Operational,4
+40170,Functional Trainer Machine,Functional / Multi-Station Equipment,2021-03-01,Operational,4
+40171,Smith Combo Rack,Functional / Multi-Station Equipment,2021-01-10,Operational,4
+40172,Linear Leg Press (45°),Leg Machines,2021-02-27,Operational,4
+40173,Vertical Leg Press,Leg Machines,2021-04-01,Operational,4
+40174,Plate Loaded Chest Press Machine,Chest / Upper Body Machines,2021-03-21,Operational,4
+40175,Plate Loaded Row Machine,Back Machines,2021-01-22,Operational,4
+40176,Plate Loaded Shoulder Press Machine,Shoulder / Arm Machines,2021-01-14,Operational,4
+40177,Plate Loaded Squat Machine,Leg Machines,2021-03-07,Operational,4
+40178,Plate Loaded Deadlift Machine,Back Machines,2021-03-29,Operational,4
+40179,Plate Loaded T-Bar Row Machine,Back Machines,2020-11-30,Operational,4
+40180,Plate Loaded Bicep Curl Machine,Shoulder / Arm Machines,2021-04-10,Operational,4
+40181,Plate Loaded Tricep Extension Machine,Shoulder / Arm Machines,2021-01-14,Operational,4
+40182,Standing Leg Curl Machine,Leg Machines,2021-01-29,Operational,4
+40183,Rotary Torso Machine,Core / Abs Machines,2020-12-16,Operational,4
+40184,Inner / Outer Thigh Machine,Leg Machines,2021-01-07,Operational,4
+40185,Glute Bridge Machine,Leg Machines,2021-03-17,Operational,4
+40186,Hip Thrust Machine,Leg Machines,2021-04-01,Operational,4
+40187,Abdominal Machine,Core / Abs Machines,2021-02-12,Operational,4
+40188,Lower Back Machine,Core / Abs Machines,2021-02-23,Operational,4
+40189,Total Body Trainer,Functional / Multi-Station Equipment,2020-12-01,Operational,4
+40190,Selectorized Bicep Curl Machine,Shoulder / Arm Machines,2020-12-28,Operational,4
+40191,Selectorized Tricep Press Machine,Shoulder / Arm Machines,2021-03-22,Operational,4
+40192,Plate Loaded Iso-Lateral Leg Press Machine,Leg Machines,2020-12-17,Operational,5
+40193,Plate Loaded Iso-Lateral Pulldown Machine,Back Machines,2021-03-27,Operational,5
+40194,Plate Loaded Iso-Lateral Low Row Machine,Back Machines,2021-02-08,Operational,5
+40195,Plate Loaded Iso-Lateral Deadlift Machine,Back Machines,2021-04-17,Operational,5
+40196,Plate Loaded Iso-Lateral Multi Press,Chest / Upper Body Machines,2020-12-11,Operational,5
+40197,Smith Functional Trainer Combo,Functional / Multi-Station Equipment,2021-02-12,Operational,5
+40198,Free Motion Dual Cable Machine,Functional / Multi-Station Equipment,2020-12-14,Operational,5
+40199,Chest Fly / Rear Delt Combo Machine,Chest / Upper Body Machines,2021-04-07,Operational,5
+40200,Pec Deck / Press Combo,Chest / Upper Body Machines,2020-12-17,Operational,5
+40201,Assisted Squat Machine,Leg Machines,2020-12-12,Operational,5
+40202,Smith Counterbalanced Machine,Functional / Multi-Station Equipment,2021-02-14,Operational,5
+40203,Incline Lever Row Machine,Back Machines,2020-12-30,Operational,5
+40204,Abdominal Crunch Bench (Machine Type),Core / Abs Machines,2020-12-28,Operational,5
+40205,Glute Ham Developer Machine,Leg Machines,2021-01-21,Operational,5
+40206,45° Back Extension Machine,Core / Abs Machines,2021-01-18,Operational,5
+40207,Standing Calf Press Machine,Leg Machines,2021-02-27,Operational,5
+40208,Selectorized Multi Hip Machine,Leg Machines,2021-02-10,Operational,5
+40209,Selectorized Rotary Torso Machine,Core / Abs Machines,2021-03-23,Operational,5
+40210,Seated Dip Machine,Shoulder / Arm Machines,2021-03-11,Operational,5
+40211,Lever Arm Shoulder Press,Shoulder / Arm Machines,2021-04-16,Operational,5
+40212,Power Tower (Pull-up / Dip Station),Functional / Multi-Station Equipment,2021-04-16,Operational,5
+40213,Chest Press Machine,Chest / Upper Body Machines,2021-03-20,Operational,5
+40214,Lat Pulldown Machine,Back Machines,2021-03-05,Operational,5
+40215,Leg Press Machine,Leg Machines,2020-12-31,Operational,5
+40216,Smith Machine,Functional / Multi-Station Equipment,2021-02-13,Operational,5
+40217,Cable Crossover Machine,Functional / Multi-Station Equipment,2021-03-31,Operational,5
+40218,Plate Loaded Chest Press Machine,Chest / Upper Body Machines,2021-05-10,Operational,5
+40219,Plate Loaded Row Machine,Back Machines,2020-12-24,Operational,5
+40220,Plate Loaded Shoulder Press Machine,Shoulder / Arm Machines,2021-05-09,Operational,5
+40221,Plate Loaded Squat Machine,Leg Machines,2021-03-29,Operational,5
+40222,Plate Loaded Deadlift Machine,Back Machines,2021-04-10,Operational,5
+40223,Plate Loaded T-Bar Row Machine,Back Machines,2021-03-28,Operational,5
+40224,Plate Loaded Bicep Curl Machine,Shoulder / Arm Machines,2021-02-10,Operational,5
+40225,Plate Loaded Tricep Extension Machine,Shoulder / Arm Machines,2021-01-24,Operational,5
+40226,Standing Leg Curl Machine,Leg Machines,2021-04-30,Operational,5
+40227,Rotary Torso Machine,Core / Abs Machines,2020-12-20,Operational,5
+40228,Inner / Outer Thigh Machine,Leg Machines,2021-04-02,Operational,5
+40229,Glute Bridge Machine,Leg Machines,2021-01-25,Operational,5
+40230,Hip Thrust Machine,Leg Machines,2020-12-27,Operational,5
+40231,Abdominal Machine,Core / Abs Machines,2021-04-10,Operational,5
+40232,Lower Back Machine,Core / Abs Machines,2020-12-27,Operational,5
+40233,Total Body Trainer,Functional / Multi-Station Equipment,2021-05-01,Operational,5
+40234,Selectorized Bicep Curl Machine,Shoulder / Arm Machines,2021-03-07,Operational,5
+40235,Selectorized Tricep Press Machine,Shoulder / Arm Machines,2020-12-15,Operational,5

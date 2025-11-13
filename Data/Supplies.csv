@@ -1,0 +1,341 @@
+Supplier ID,Branch ID,Name,Quantity,Price (EGP),Purchase Date
+2,1,Fitness Equipment,5,112070.33,2021-08-24
+2,3,Dumbbell Set,7,132152.4,2024-05-29
+2,1,Supplements,31,80076.66,2021-05-27
+2,2,Cardio Machines,3,410905.14,2024-02-02
+2,2,Gym Goods,39,81331.84,2024-03-31
+2,4,Supplements,29,76072.4,2022-10-28
+2,3,Safety & Protection Gear,5,25546.24,2024-06-06
+2,5,Supplements,69,238947.15,2023-07-31
+2,4,Maintenance Tools,14,54383.35,2024-10-22
+2,3,Recovery Equipment,10,106232.62,2023-01-09
+2,2,Gym Goods,11,79504.77,2023-08-15
+2,3,Weight Lifting Machines,3,715161.88,2025-06-06
+2,2,Fitness Equipment,13,428419.71,2022-08-10
+4,1,Dumbbell Set,8,243745.85,2025-10-28
+4,1,Recovery Equipment,7,93765.23,2022-11-04
+4,1,Recovery Equipment,8,116745.01,2021-09-28
+4,2,Dumbbell Set,8,242466.7,2022-01-10
+4,1,Weight Lifting Machines,2,564656.09,2022-05-21
+4,4,Safety & Protection Gear,15,120346.6,2023-07-16
+5,5,Recovery Equipment,9,85705.78,2025-08-18
+5,4,Weight Lifting Machines,2,597150.79,2023-09-16
+5,1,Fitness Equipment,6,213064.38,2025-09-04
+5,3,Safety & Protection Gear,11,37076.55,2022-08-12
+5,2,Supplements,40,117219.45,2024-04-03
+5,1,Safety & Protection Gear,15,77363.96,2022-11-20
+5,4,Smart Fitness Devices,7,56698.99,2024-03-05
+5,5,Dumbbell Set,4,119555.6,2025-10-13
+5,3,Hygiene Supplies,45,131079.18,2022-12-02
+5,3,Cardio Machines,1,104685.6,2025-01-30
+5,5,Supplements,85,221482.17,2025-02-23
+5,1,Cardio Machines,3,1023199.37,2024-07-03
+5,3,Smart Fitness Devices,6,48739.69,2023-07-23
+12,1,Safety & Protection Gear,11,104909.15,2023-08-31
+12,4,Smart Fitness Devices,4,75265.49,2023-12-25
+12,3,Supplements,83,442120.81,2024-08-04
+12,3,Gym Goods,27,99460.1,2024-10-24
+12,4,Cardio Machines,3,619624.95,2024-08-25
+12,1,Maintenance Tools,13,157203.65,2022-01-08
+12,1,Recovery Equipment,5,34891.11,2023-03-23
+12,4,Smart Fitness Devices,3,49070.68,2023-12-17
+12,2,Maintenance Tools,6,87047.83,2023-04-24
+12,5,Cardio Machines,3,334197.43,2023-08-04
+12,4,Fitness Equipment,9,290098.27,2023-07-21
+13,3,Maintenance Tools,16,206240.01,2025-02-25
+13,4,Gym Goods,13,69385.9,2024-01-20
+13,2,Weight Lifting Machines,2,449323.37,2024-11-19
+13,4,Supplements,94,388264,2025-06-18
+13,2,Smart Fitness Devices,3,53659.24,2025-10-16
+13,4,Supplements,21,73416.55,2023-02-15
+13,4,Smart Fitness Devices,5,89449.69,2025-06-15
+13,3,Hygiene Supplies,38,56018.58,2022-05-14
+13,4,Hygiene Supplies,32,40968.3,2024-10-13
+13,3,Smart Fitness Devices,7,78546.1,2025-01-01
+13,3,Smart Fitness Devices,7,76767.83,2024-01-06
+13,2,Supplements,29,72240.1,2025-09-10
+13,5,Safety & Protection Gear,11,106918.72,2024-10-31
+13,5,Safety & Protection Gear,10,75068.11,2023-08-20
+15,3,Gym Goods,31,122454.72,2022-04-15
+15,3,Hygiene Supplies,41,27660.12,2022-01-19
+15,1,Supplements,57,310364.09,2023-01-03
+15,5,Gym Goods,10,25551.16,2024-06-19
+15,5,Recovery Equipment,3,37436.97,2023-09-18
+15,5,Weight Lifting Machines,1,104037.4,2023-07-06
+15,2,Hygiene Supplies,19,45989.77,2022-10-11
+15,4,Smart Fitness Devices,5,81963.18,2023-07-21
+15,1,Safety & Protection Gear,14,40167.97,2022-11-27
+15,1,Hygiene Supplies,43,123520.04,2024-11-27
+15,3,Supplements,62,91139.81,2025-08-10
+20,2,Supplements,82,403296.54,2023-10-07
+20,1,Hygiene Supplies,12,16666.93,2023-09-29
+20,1,Smart Fitness Devices,6,84559.79,2025-10-01
+22,5,Maintenance Tools,11,28275.76,2024-05-03
+22,4,Safety & Protection Gear,14,31529.33,2024-07-20
+22,5,Gym Goods,19,95457.13,2025-04-27
+22,1,Maintenance Tools,20,70277.86,2025-02-07
+22,1,Fitness Equipment,8,120625.26,2021-11-28
+22,2,Recovery Equipment,10,109515.56,2022-02-11
+22,2,Gym Goods,18,141983.68,2022-05-04
+22,3,Supplements,78,226430.17,2023-06-03
+28,5,Recovery Equipment,7,33960.18,2024-05-26
+28,1,Supplements,34,97781.31,2021-07-29
+28,1,Fitness Equipment,11,281242.82,2023-03-03
+28,5,Hygiene Supplies,46,73656.07,2023-10-10
+28,4,Safety & Protection Gear,10,83853.6,2024-04-21
+28,5,Fitness Equipment,13,114091.98,2024-10-06
+28,3,Supplements,81,124651.23,2025-10-15
+28,4,Gym Goods,18,28547.41,2025-07-18
+28,3,Smart Fitness Devices,3,51116.96,2024-10-01
+28,5,Smart Fitness Devices,3,17086.98,2024-12-05
+34,4,Dumbbell Set,3,102032.18,2024-09-20
+34,5,Supplements,58,136503.13,2023-09-26
+34,3,Safety & Protection Gear,6,25605.26,2023-01-09
+34,3,Smart Fitness Devices,7,66218.5,2022-03-23
+34,1,Hygiene Supplies,24,43800.55,2024-07-13
+34,1,Gym Goods,24,47569.22,2023-07-11
+48,3,Hygiene Supplies,45,131600.73,2024-12-27
+48,1,Safety & Protection Gear,7,38674.2,2021-06-29
+48,5,Supplements,33,169494.96,2025-10-16
+48,4,Safety & Protection Gear,15,121748.21,2023-02-04
+48,4,Gym Goods,23,61717.66,2024-10-20
+48,5,Maintenance Tools,6,12156.36,2024-10-30
+49,4,Smart Fitness Devices,8,156380.75,2025-07-31
+49,1,Smart Fitness Devices,6,78947.23,2023-05-13
+49,2,Safety & Protection Gear,12,42709.15,2024-03-23
+49,2,Safety & Protection Gear,7,48775.66,2025-06-07
+49,5,Safety & Protection Gear,7,22195.98,2024-02-09
+49,5,Smart Fitness Devices,8,87932.07,2024-05-02
+49,3,Hygiene Supplies,36,78215.66,2024-12-14
+49,2,Hygiene Supplies,44,50344.34,2023-04-03
+49,2,Hygiene Supplies,31,92183.54,2024-05-05
+53,4,Hygiene Supplies,49,95823.59,2024-08-13
+53,3,Recovery Equipment,4,15063.76,2024-03-04
+53,1,Gym Goods,35,240380.68,2024-05-13
+53,4,Gym Goods,15,109929.18,2023-08-27
+53,1,Fitness Equipment,9,134231.98,2023-02-02
+53,5,Recovery Equipment,7,44080.41,2023-05-25
+53,4,Safety & Protection Gear,6,12281.22,2024-06-06
+53,4,Supplements,33,120165.75,2025-06-16
+53,4,Recovery Equipment,6,76898.58,2024-01-13
+53,1,Hygiene Supplies,36,54450.55,2022-12-08
+54,1,Gym Goods,14,54061.25,2024-11-05
+54,3,Maintenance Tools,9,68765.48,2024-05-18
+54,4,Smart Fitness Devices,7,137692.25,2023-12-07
+54,5,Fitness Equipment,6,69210.37,2023-10-07
+54,1,Supplements,93,497812.07,2023-03-28
+54,1,Gym Goods,11,75256.07,2023-03-18
+54,2,Recovery Equipment,6,61791.19,2025-08-08
+54,3,Safety & Protection Gear,13,42068.78,2022-05-02
+54,4,Smart Fitness Devices,7,101957.35,2023-08-13
+54,1,Gym Goods,38,181291.64,2021-09-21
+58,4,Recovery Equipment,9,81902.82,2025-03-09
+58,2,Maintenance Tools,7,102166.43,2024-03-12
+58,4,Gym Goods,30,149646.24,2022-09-30
+58,4,Supplements,30,116370.09,2025-06-12
+58,3,Hygiene Supplies,49,135420.64,2023-12-22
+58,5,Fitness Equipment,10,163871.78,2024-11-03
+58,1,Safety & Protection Gear,9,61859,2021-10-06
+58,4,Safety & Protection Gear,11,71113.67,2023-11-27
+58,3,Smart Fitness Devices,4,49929.42,2023-01-13
+58,3,Supplements,84,87707.4,2023-02-28
+59,2,Fitness Equipment,10,291435.52,2022-09-16
+59,3,Maintenance Tools,12,153224.79,2023-08-16
+59,3,Supplements,67,326667.37,2022-02-04
+59,5,Recovery Equipment,7,55749.86,2024-06-02
+59,3,Gym Goods,40,154767.62,2025-07-31
+59,1,Gym Goods,39,163722.5,2024-10-14
+59,5,Safety & Protection Gear,11,74970.44,2025-07-03
+63,3,Hygiene Supplies,42,124568.78,2023-06-16
+63,4,Supplements,52,224776.13,2025-05-09
+63,5,Recovery Equipment,3,40447.88,2024-02-20
+63,1,Gym Goods,17,87431.81,2021-06-27
+63,5,Recovery Equipment,7,24003.73,2025-01-10
+63,2,Smart Fitness Devices,6,90867.02,2023-02-01
+63,3,Safety & Protection Gear,5,46935.03,2025-01-06
+63,5,Safety & Protection Gear,9,44976.06,2024-08-26
+63,1,Recovery Equipment,3,22016.22,2022-06-04
+63,2,Hygiene Supplies,19,47138.15,2023-05-09
+63,3,Hygiene Supplies,43,94091.23,2022-12-12
+63,1,Hygiene Supplies,39,93046.39,2025-07-12
+69,4,Recovery Equipment,4,40325.86,2025-09-10
+69,5,Fitness Equipment,9,318908.65,2025-09-04
+69,3,Supplements,60,117156.88,2022-04-20
+69,3,Gym Goods,16,36565.45,2024-01-29
+69,4,Supplements,77,291896.76,2023-05-31
+69,4,Supplements,32,37583.06,2024-10-14
+69,2,Maintenance Tools,18,93259.09,2023-01-14
+69,1,Gym Goods,32,97325.42,2024-08-19
+69,1,Maintenance Tools,17,146850.12,2023-04-20
+69,5,Recovery Equipment,5,65489.61,2025-01-24
+69,1,Gym Goods,31,151166.06,2022-10-11
+69,3,Supplements,73,100086.83,2025-09-29
+69,5,Hygiene Supplies,16,25654.29,2024-04-14
+69,1,Supplements,95,235275.38,2022-09-02
+73,2,Recovery Equipment,8,36890.49,2024-10-03
+73,5,Safety & Protection Gear,12,103537.31,2025-02-24
+73,4,Supplements,33,171209.48,2023-07-17
+73,3,Supplements,87,384136.06,2025-10-27
+73,4,Hygiene Supplies,29,74022.63,2024-06-28
+73,4,Safety & Protection Gear,9,58290.86,2024-09-12
+73,3,Hygiene Supplies,14,34955.54,2024-10-30
+73,4,Recovery Equipment,4,12422.86,2023-03-23
+73,3,Hygiene Supplies,24,12935.64,2022-01-09
+74,1,Safety & Protection Gear,9,21777.43,2022-11-02
+74,3,Hygiene Supplies,25,52895.42,2022-02-05
+74,5,Smart Fitness Devices,6,93691.17,2025-01-24
+74,5,Recovery Equipment,9,60011.63,2023-07-17
+74,1,Recovery Equipment,6,49985.88,2025-04-30
+74,5,Maintenance Tools,13,194999.38,2025-07-14
+74,5,Recovery Equipment,7,40900.43,2023-10-09
+74,4,Maintenance Tools,18,253950.18,2025-09-25
+74,5,Fitness Equipment,8,204536.56,2024-07-15
+74,3,Hygiene Supplies,30,78103.6,2024-04-26
+74,2,Recovery Equipment,7,83973.79,2022-07-28
+74,4,Smart Fitness Devices,4,69323.13,2024-10-31
+74,1,Supplements,35,106486.92,2024-10-09
+77,4,Recovery Equipment,10,114219.12,2025-01-12
+77,5,Hygiene Supplies,27,35171.3,2023-11-07
+77,2,Safety & Protection Gear,6,39806.73,2024-07-31
+77,2,Recovery Equipment,6,21063.8,2022-05-22
+77,4,Maintenance Tools,14,195772.79,2023-07-26
+77,4,Gym Goods,14,88268.54,2023-05-11
+77,2,Recovery Equipment,7,59971.09,2025-04-23
+77,1,Safety & Protection Gear,5,41263.42,2021-06-20
+77,2,Fitness Equipment,15,261049.37,2025-04-25
+77,1,Gym Goods,13,23319.25,2023-02-27
+77,2,Safety & Protection Gear,13,117406.39,2024-05-04
+77,3,Smart Fitness Devices,6,74578.84,2024-07-11
+77,2,Recovery Equipment,8,26825.79,2025-03-02
+77,5,Gym Goods,34,148265.09,2023-11-25
+78,5,Fitness Equipment,11,322997.44,2024-08-18
+78,1,Fitness Equipment,5,97681.73,2022-01-27
+78,5,Hygiene Supplies,29,61367.47,2024-12-24
+78,2,Safety & Protection Gear,15,63338.77,2022-02-15
+78,5,Fitness Equipment,14,173842.24,2023-08-18
+78,2,Gym Goods,16,63784.33,2023-11-06
+78,2,Hygiene Supplies,26,60315.64,2024-02-04
+78,2,Supplements,70,386506.53,2024-12-12
+79,1,Fitness Equipment,5,39291.98,2024-09-16
+79,4,Supplements,99,581647.44,2025-06-19
+79,5,Fitness Equipment,15,254223.54,2025-04-12
+79,3,Gym Goods,14,109306.68,2022-02-21
+79,1,Recovery Equipment,9,40659.91,2022-09-14
+79,2,Maintenance Tools,16,59679.49,2023-08-09
+79,1,Recovery Equipment,8,72205.44,2024-01-21
+79,4,Supplements,96,207109.92,2025-06-02
+79,4,Safety & Protection Gear,13,53601.12,2025-10-09
+79,2,Hygiene Supplies,32,54189.43,2024-04-25
+79,1,Smart Fitness Devices,5,54361.43,2022-11-13
+79,5,Supplements,70,350151.34,2025-10-12
+79,4,Maintenance Tools,9,54973.65,2024-03-17
+81,3,Smart Fitness Devices,4,33869.8,2024-11-24
+81,5,Maintenance Tools,13,168231.6,2023-10-29
+81,5,Safety & Protection Gear,12,74702.11,2023-11-24
+81,4,Hygiene Supplies,50,69122.01,2025-06-02
+81,1,Hygiene Supplies,50,79240.52,2024-12-30
+81,2,Recovery Equipment,5,63528.76,2023-04-01
+81,1,Smart Fitness Devices,8,41546.38,2023-08-07
+81,4,Recovery Equipment,3,37333.6,2025-01-15
+81,4,Gym Goods,25,43767.03,2025-06-29
+82,3,Gym Goods,19,149256.38,2023-06-06
+82,5,Gym Goods,19,151387.55,2023-06-25
+82,4,Hygiene Supplies,14,31714.63,2024-05-08
+82,5,Recovery Equipment,8,84805.74,2024-04-02
+82,5,Recovery Equipment,8,75468.2,2025-07-25
+82,5,Recovery Equipment,4,19554.79,2023-05-24
+82,1,Recovery Equipment,5,55698.1,2024-05-09
+82,4,Smart Fitness Devices,6,37586,2024-10-05
+82,3,Safety & Protection Gear,12,67939.74,2024-05-02
+84,5,Safety & Protection Gear,8,52192.93,2024-09-17
+84,4,Maintenance Tools,13,144623.03,2024-04-06
+84,4,Recovery Equipment,5,67207.09,2025-06-30
+84,2,Supplements,84,387762.21,2024-07-21
+85,1,Maintenance Tools,6,86591.7,2024-05-13
+85,3,Gym Goods,12,42008.64,2022-12-20
+85,2,Safety & Protection Gear,13,89152.46,2024-09-15
+85,3,Supplements,81,263621.87,2023-09-21
+85,1,Fitness Equipment,8,172739.46,2022-02-06
+85,1,Safety & Protection Gear,5,13794.9,2025-04-23
+85,4,Smart Fitness Devices,5,29104.59,2024-04-27
+85,4,Fitness Equipment,6,138630.93,2022-11-22
+85,1,Safety & Protection Gear,11,70408.93,2022-04-23
+85,4,Gym Goods,35,267833.65,2025-01-06
+85,1,Fitness Equipment,9,238094.12,2024-12-11
+85,4,Recovery Equipment,9,115816.65,2025-10-04
+86,4,Recovery Equipment,9,72280.05,2023-01-03
+86,3,Smart Fitness Devices,4,51247.72,2022-07-30
+86,4,Maintenance Tools,8,20206.92,2025-04-20
+86,3,Smart Fitness Devices,5,96327.32,2025-02-10
+86,3,Supplements,46,227761.16,2024-10-09
+86,4,Safety & Protection Gear,13,64806.55,2022-12-15
+86,4,Safety & Protection Gear,11,78392.46,2025-06-21
+88,3,Safety & Protection Gear,6,55693.72,2023-02-13
+88,2,Smart Fitness Devices,5,92981.66,2023-11-23
+88,2,Hygiene Supplies,23,23594.8,2025-05-07
+88,2,Hygiene Supplies,27,77949.83,2024-09-23
+88,2,Gym Goods,25,103583.86,2024-05-18
+88,2,Safety & Protection Gear,5,42003.16,2024-10-20
+88,4,Recovery Equipment,5,17118.37,2022-11-24
+88,2,Safety & Protection Gear,8,32533.3,2024-05-08
+88,4,Smart Fitness Devices,5,83159.91,2023-12-09
+88,4,Recovery Equipment,7,37168.29,2023-10-16
+88,4,Safety & Protection Gear,9,75198.57,2024-06-07
+88,5,Gym Goods,15,65862.24,2025-03-09
+88,4,Fitness Equipment,6,104096.15,2023-09-16
+89,1,Hygiene Supplies,43,47679.41,2023-09-05
+89,1,Fitness Equipment,15,588695.46,2025-08-25
+89,3,Smart Fitness Devices,5,47136.07,2023-05-17
+89,4,Recovery Equipment,9,28285.62,2025-06-10
+89,5,Recovery Equipment,9,80555.03,2024-07-02
+89,3,Recovery Equipment,6,57925.54,2025-10-19
+89,1,Gym Goods,21,55731.19,2023-10-17
+89,4,Smart Fitness Devices,5,92672.49,2025-03-16
+89,3,Smart Fitness Devices,4,25765.34,2024-01-18
+89,3,Recovery Equipment,6,87461.98,2025-06-13
+89,5,Supplements,20,50816.61,2024-11-23
+91,2,Safety & Protection Gear,5,40798.14,2023-01-04
+91,5,Recovery Equipment,7,97015.96,2025-05-21
+91,1,Fitness Equipment,10,231123.13,2023-10-16
+91,1,Smart Fitness Devices,3,40421.87,2024-01-11
+91,2,Maintenance Tools,19,60243.94,2023-10-13
+91,1,Hygiene Supplies,45,44386.33,2025-08-22
+91,2,Smart Fitness Devices,4,42887.54,2023-08-16
+91,4,Supplements,76,433279.84,2024-12-13
+95,1,Recovery Equipment,10,136188.43,2024-06-17
+95,1,Smart Fitness Devices,4,77533.32,2022-04-30
+95,1,Maintenance Tools,15,162922.57,2021-08-13
+95,1,Maintenance Tools,14,181425.51,2024-08-31
+95,1,Hygiene Supplies,16,20289.61,2022-11-19
+95,3,Smart Fitness Devices,6,65450.88,2023-07-16
+95,5,Supplements,64,281367.16,2023-09-07
+95,1,Hygiene Supplies,20,29725.38,2025-05-22
+95,5,Maintenance Tools,8,49651.05,2023-06-19
+95,1,Safety & Protection Gear,6,41637.2,2024-09-08
+95,5,Smart Fitness Devices,4,50009.56,2023-06-28
+95,1,Recovery Equipment,7,40965.4,2022-08-16
+95,4,Fitness Equipment,6,134815.91,2023-11-06
+99,4,Supplements,95,179196.73,2022-12-06
+99,3,Recovery Equipment,6,36516.39,2024-01-02
+99,2,Hygiene Supplies,13,38084.53,2024-05-22
+99,2,Gym Goods,37,124087.23,2023-03-10
+99,2,Hygiene Supplies,30,42838.91,2022-06-27
+99,2,Hygiene Supplies,21,59931.92,2022-09-15
+99,2,Maintenance Tools,8,90813.6,2023-11-22
+99,5,Maintenance Tools,9,32250.06,2024-07-12
+99,3,Maintenance Tools,13,94701.67,2024-09-12
+99,5,Hygiene Supplies,17,35506.76,2024-09-24
+99,1,Recovery Equipment,5,54484.04,2021-10-08
+99,5,Fitness Equipment,6,62638.57,2024-07-17
+99,4,Maintenance Tools,13,56595.68,2024-11-02
+100,1,Fitness Equipment,14,336996.04,2024-05-02
+100,4,Hygiene Supplies,38,38999.3,2023-08-14
+100,1,Fitness Equipment,12,272513.64,2022-03-27
+100,1,Recovery Equipment,7,66405.61,2025-01-25
+100,3,Gym Goods,39,174776.42,2023-03-11
+100,1,Hygiene Supplies,40,111941.47,2021-10-26
+100,1,Hygiene Supplies,11,24425.8,2022-08-06
+100,5,Gym Goods,24,117374.31,2025-09-08
+100,4,Supplements,24,120941.92,2025-05-08
+100,3,Recovery Equipment,5,39521.5,2023-03-18
+100,1,Recovery Equipment,6,85526.03,2024-12-11

@@ -1,0 +1,187 @@
+ID,Name,Date Of Birth,Gender,Job Position,Phone Number,Email,Salary,Hiring Date,Start Shift Time,End Shift Time,Employment Status,Branch ID
+60001,Adel Emam,1978-04-12,M,General Manager,1554707061,adelemam@gmail.com,30000,2021-06-01,9:00,17:00,Active,1
+60002,Sherine Ibrahim,1982-11-03,F,Facility Manager,1244410148,sherineibrahim@gmail.com,22000,2021-07-05,9:00,17:00,Active,1
+60176,Marwa Matar,1999-02-18,F,HR Officer,1271516034,marwamatar@gmail.com,12500,2021-08-10,9:00,17:00,Non Active,1
+60003,Marwa Gaber,1990-02-18,F,HR Officer,1272828034,marwagaber@gmail.com,15000,2021-12-10,9:00,17:00,Active,1
+60004,Tamer Abdelaziz,1992-09-04,M,Accountant,1062535301,tamerabdelaziz@gmail.com,14000,2021-07-20,9:00,17:00,Active,1
+60005,Mohanad Hamed,1993-07-29,M,Massage Therapist,1155804273,mohanadhamed@gmail.com,11000,2021-09-10,6:00,14:00,Active,1
+60006,Yasser Fathy,1996-05-30,M,Massage Therapist,1208357162,yasserfathy@gmail.com,11000,2021-09-10,14:00,22:00,Active,1
+60007,Ihab Morsi,1995-06-15,M,Massage Therapist,1127760841,ihabmorsi@gmail.com,11000,2021-09-10,22:00,6:00,Active,1
+60008,Sami Atiya,1995-05-22,M,Spa Attendant,1256390708,samiatiya@gmail.com,10000,2021-09-15,6:00,14:00,Active,1
+60009,Saber Gamal,1994-09-17,M,Spa Attendant,1152274692,sabergamal@gmail.com,10000,2021-09-15,14:00,22:00,Active,1
+60010,Yasser Ramadan,1992-06-28,M,Spa Attendant,1278393811,yasserramadan@gmail.com,10000,2021-09-15,22:00,6:00,Active,1
+60011,Mohamed Anis,1997-07-07,M,Receptionist,1093351515,mohamedanis@gmail.com,9000,2021-10-01,6:00,14:00,Active,1
+60012,Sara Fekry,1999-04-04,F,Receptionist,1102621534,sarafekry@gmail.com,9000,2021-10-01,14:00,22:00,Active,1
+60013,Maged Khedr,1991-03-04,M,Receptionist,1277267850,magedkhedr@gmail.com,9000,2021-10-01,22:00,6:00,Active,1
+60014,Alaa Mounir,1998-01-22,M,Maintenance Technician,1051053877,alaamounir@gmail.com,12000,2021-10-05,6:00,18:00,Active,1
+60015,Wael ElGohary,1994-12-20,M,Maintenance Technician,1064019136,waelelgohary@gmail.com,12000,2021-10-05,18:00,6:00,Active,1
+60016,Fatma Hassan,1988-03-05,F,Security Guard,1200791358,fatmahassan@gmail.com,9500,2021-10-05,6:00,18:00,Active,1
+60017,Wesal Atef,1985-05-05,F,Security Guard,1147212267,wesalatef@gmail.com,9500,2021-10-05,18:00,6:00,Active,1
+60018,Sara Gamal,1996-11-17,F,Laundry Staff,1540079111,saragamal@gmail.com,7000,2021-10-10,6:00,14:00,Active,1
+60019,Omar Selim,1997-04-09,M,Laundry Staff,1052343121,omarselim@gmail.com,7000,2021-10-10,6:00,14:00,Active,1
+60020,Rasha Fahmy,1999-08-11,F,Laundry Staff,1056240084,rashafahmy@gmail.com,7000,2021-10-10,6:00,14:00,Active,1
+60021,Mohanad Mahdy,1994-03-26,M,Laundry Staff,1272238741,mohanadmahdy@gmail.com,7000,2021-10-10,14:00,22:00,Active,1
+60022,Ismail Abdelaziz,1998-02-02,M,Laundry Staff,1598600914,ismailabdelaziz@gmail.com,7000,2021-10-10,14:00,22:00,Active,1
+60023,Shawkat Kamel,1992-10-10,M,Laundry Staff,1573300637,shawkatkamel@gmail.com,7000,2021-10-10,14:00,22:00,Active,1
+60024,Bassem Osman,1991-02-14,M,Laundry Staff,1580967191,bassemkamel2@gmail.com,7000,2021-10-10,22:00,6:00,Active,1
+60025,Ezzat Zaki,1993-10-12,M,Laundry Staff,1229600202,ezzatzaki@gmail.com,7000,2021-10-10,22:00,6:00,Active,1
+60026,Sami Habib,1998-12-09,M,Laundry Staff,1165529051,samihabib@gmail.com,7000,2021-10-10,22:00,6:00,Active,1
+60027,Fadi Atiya,1997-02-07,M,Cleaning Staff,1029450273,fadiatiya@gmail.com,6500,2021-10-12,6:00,14:00,Active,1
+60177,Mohamed Fadl,1998-04-02,M,Cleaning Staff,1028967706,mohamedfad;@gmail.com,6000,2021-08-10,14:00,22:00,Non Active,1
+60178,Amr Diab,1998-05-11,M,Cleaning Staff,1024669504,amrdiab@gmail.com,6000,2021-08-15,9:00,17:00,Non Active,1
+60179,Tamer Hosny,2000-06-02,M,Cleaning Staff,1569742992,tamerhosny@gmail.com,6000,2021-08-20,14:00,22:00,Non Active,1
+60028,Salah ElSayed,1994-06-03,M,Cleaning Staff,1236632757,salahelsayed@gmail.com,6500,2021-10-12,6:00,14:00,Active,1
+60029,Noura Said,1999-02-28,F,Cleaning Staff,1558496914,nourasaid@gmail.com,6500,2021-10-12,6:00,14:00,Active,1
+60030,Omar Kamel,1985-12-11,M,Cleaning Staff,1065181765,omarkamel@gmail.com,6500,2021-10-12,14:00,22:00,Active,1
+60031,Magdy Hegazy,1987-10-01,M,Cleaning Staff,1003895645,magdyhegazy@gmail.com,6500,2021-10-12,14:00,22:00,Active,1
+60032,Omar Gamal,1993-12-12,M,Cleaning Staff,1552191530,omargamal@gmail.com,6500,2021-10-12,14:00,22:00,Active,1
+60033,Fady ElMasry,1997-03-03,M,Cleaning Staff,1545114543,fadyelmasry@gmail.com,6500,2021-10-12,22:00,6:00,Active,1
+60034,Ihab Khaled,1995-05-22,M,Cleaning Staff,1089774697,ihabkhaled@gmail.com,6500,2021-10-12,22:00,6:00,Active,1
+60035,Ismail Gaber,1996-05-30,M,Cleaning Staff,1091152880,ismailgaber@gmail.com,6500,2021-10-12,22:00,6:00,Active,1
+60036,Noura Hassan,1979-03-15,F,General Manager,1154266464,nourahassan@gmail.com,30500,2021-07-01,9:00,17:00,Active,2
+60037,Youssef Abdelrahman,1983-11-22,M,Facility Manager,1197197979,youssefabdelrahman@gmail.com,22000,2021-07-05,9:00,17:00,Active,2
+60038,Hazem ElMasry,1990-06-18,M,HR Officer,1222151928,hazemelmasry@gmail.com,15000,2021-07-10,9:00,17:00,Active,2
+60180,Sara Elmahdy,1995-03-15,F,Accountant,1516179564,saraelmahdy@gmail.com,12500,2021-07-15,9:00,17:00,Non Active,2
+60039,Mohamed Khaled,1992-08-04,M,Accountant,1062732043,mohamedkhaled@gmail.com,14000,2021-09-15,9:00,17:00,Active,2
+60040,Tawfiq Fouad,1993-09-29,M,Massage Therapist,1117129912,tawfiqfouad@gmail.com,11000,2021-08-01,6:00,14:00,Active,2
+60041,Ismail Kamel,1994-12-12,M,Massage Therapist,1083517915,ismailkamel@gmail.com,11000,2021-08-01,14:00,22:00,Active,2
+60042,Ehab ElShazly,1995-07-15,M,Massage Therapist,1571688860,ehabelshazly@gmail.com,11000,2021-08-01,22:00,6:00,Active,2
+60043,Mostafa Mohamed,1996-03-03,M,Spa Attendant,1103619375,mostafamohamed@gmail.com,10000,2021-08-10,6:00,14:00,Active,2
+60044,Hend Said,1991-11-18,F,Spa Attendant,1552884503,hendsaid@gmail.com,10000,2021-08-10,14:00,22:00,Active,2
+60045,Magdy Elbaz,1992-02-22,M,Spa Attendant,1579442503,magdyelbaz@gmail.com,10000,2021-08-10,22:00,6:00,Active,2
+60046,Ramadan Ramadan,1994-05-07,M,Receptionist,1575751409,ramadanramadan@gmail.com,9000,2021-08-15,6:00,14:00,Active,2
+60047,Tawfiq Ishak,1995-10-12,M,Receptionist,1288986321,tawfiqishak@gmail.com,9000,2021-08-15,14:00,22:00,Active,2
+60048,Tawfiq Ramadan,1993-09-21,M,Receptionist,1503637575,tawfiqramadan@gmail.com,9000,2021-08-15,22:00,6:00,Active,2
+60049,Yassin Naguib,1998-01-10,M,Maintenance Technician,1211267237,yassinnaguib@gmail.com,12000,2021-08-20,6:00,18:00,Active,2
+60050,Hany Ramy,1995-03-15,M,Maintenance Technician,1086268397,hanyramy@gmail.com,12000,2021-08-20,18:00,6:00,Active,2
+60051,Samy Ali,1996-07-19,M,Security Guard,1057527432,samyali@gmail.com,9500,2021-08-25,6:00,18:00,Active,2
+60052,Amr Atiya,1992-04-04,M,Security Guard,1118213276,amratiya@gmail.com,9500,2021-08-25,18:00,6:00,Active,2
+60053,Hazem Habib,1996-09-12,M,Laundry Staff,1161968116,hazemhabib@gmail.com,7000,2021-09-01,6:00,14:00,Active,2
+60181,Fady Elbadawy,1992-03-22,M,Laundry Staff,1579552503,fadyelbadawy@gmail.com,6500,2021-09-01,6:00,14:00,Non Active,2
+60054,Ahmed ElSayed,1994-02-28,M,Laundry Staff,1224391257,ahmedelsayed@gmail.com,7000,2021-09-01,6:00,14:00,Active,2
+60055,Samy ElSayed,1997-05-17,M,Laundry Staff,1006749089,samyelsayed@gmail.com,7000,2021-09-01,6:00,14:00,Active,2
+60056,Mona Kamel,1993-03-03,F,Laundry Staff,1134917589,monakamel@gmail.com,7000,2021-09-01,14:00,22:00,Active,2
+60057,Mahmoud Mansour,1992-12-20,M,Laundry Staff,1150882459,mahmoudmansour@gmail.com,7000,2021-09-01,14:00,22:00,Active,2
+60058,Tawfiq Taher,1995-06-30,M,Laundry Staff,1143936531,tawfiqtaher@gmail.com,7000,2021-09-01,14:00,22:00,Active,2
+60059,Marwa Atiya,1997-01-08,F,Laundry Staff,1028408562,marwaatiya@gmail.com,7000,2021-09-01,22:00,6:00,Active,2
+60060,Sara Kamel,1993-11-12,F,Laundry Staff,1161028710,sarakamel@gmail.com,7000,2021-09-01,22:00,6:00,Active,2
+60061,Nabil Morsi,1996-08-08,M,Laundry Staff,1043868501,nabilmorsi@gmail.com,7000,2021-09-01,22:00,6:00,Active,2
+60062,Mohanad Loay,1990-02-02,M,Cleaning Staff,1545298556,mohanadloay@gmail.com,6500,2021-09-05,6:00,14:00,Active,2
+60063,Khaled Boulos,1991-04-11,M,Cleaning Staff,1550885459,khaledboulos@gmail.com,6500,2021-09-05,6:00,14:00,Active,2
+60064,Ramadan Fathy,1993-06-17,M,Cleaning Staff,1537346970,ramadanfathy@gmail.com,6500,2021-09-05,6:00,14:00,Active,2
+60065,Ali Anis,1994-10-20,M,Cleaning Staff,1256581473,alianis@gmail.com,6500,2021-09-05,14:00,22:00,Active,2
+60066,Ziad Ramadan,1995-12-05,M,Cleaning Staff,1033859311,ziadramadan@gmail.com,6500,2021-09-05,14:00,22:00,Active,2
+60067,Noor Fahmy,1996-07-07,F,Cleaning Staff,1110993268,noorfahmy@gmail.com,6500,2021-09-05,14:00,22:00,Active,2
+60068,Dalia ElGohary,1992-01-22,F,Cleaning Staff,1263123515,daliaelgohary@gmail.com,6500,2021-09-05,22:00,6:00,Active,2
+60069,Inas Barakat,1991-03-30,F,Cleaning Staff,1202601580,inasbarakat@gmail.com,6500,2021-09-05,22:00,6:00,Active,2
+60070,Yassin Barakat,1993-05-12,M,Cleaning Staff,1572399599,yassinbarakat@gmail.com,6500,2021-09-05,22:00,6:00,Active,2
+60071,Nadia Fahmy,1980-05-12,F,General Manager,1006990811,nadiafahmy@gmail.com,30500,2022-01-01,9:00,17:00,Non Active,3
+60182,Adel Shakal,1970-05-12,M,General Manager,1096574395,adelshakal@gmail.com,29500,2022-12-01,9:00,17:00,Active,3
+60072,Khalil ElGohary,1984-08-20,M,Facility Manager,1146970882,khalilelgohary@gmail.com,22000,2022-01-05,9:00,17:00,Active,3
+60073,Mai ElSayed,1990-02-14,F,HR Officer,1230094589,maielsayed@gmail.com,15000,2022-01-10,9:00,17:00,Active,3
+60074,Khaled Ramadan,1992-07-03,M,Accountant,1187260863,khaledramadan@gmail.com,14000,2022-01-15,9:00,17:00,Active,3
+60075,Fouad Anis,1993-09-19,M,Massage Therapist,1509209801,fouadanis@gmail.com,11000,2022-01-20,6:00,14:00,Active,3
+60076,Adham Mostafa,1994-12-12,M,Massage Therapist,1087477029,adhammostafa@gmail.com,11000,2022-01-20,14:00,22:00,Active,3
+60077,Ahmed Taher,1995-07-15,M,Massage Therapist,1105403355,ahmedtaher@gmail.com,11000,2022-01-20,22:00,6:00,Active,3
+60078,Hussein ElGohary,1996-03-03,M,Spa Attendant,1104164775,husseinelgohary@gmail.com,10000,2022-01-25,6:00,14:00,Active,3
+60079,Salma Ali,1991-11-18,F,Spa Attendant,1233189803,salmaali@gmail.com,10000,2022-01-25,14:00,22:00,Active,3
+60080,Menna Taher,1992-02-22,F,Spa Attendant,1126757737,mennataher@gmail.com,10000,2022-01-25,22:00,6:00,Active,3
+60081,Ismail Habib,1994-05-07,M,Receptionist,1002735359,ismailhabib@gmail.com,9000,2022-01-30,6:00,14:00,Active,3
+60082,Magdy Mostafa,1995-10-12,M,Receptionist,1083394260,magdymostafa@gmail.com,9000,2022-01-30,14:00,22:00,Active,3
+60083,Tamer Kamel,1993-09-21,M,Receptionist,1120452412,tamerkamel@gmail.com,9000,2022-01-30,22:00,6:00,Active,3
+60084,Khalil Youssef,1998-01-10,M,Maintenance Technician,1232016960,khalilyoussef@gmail.com,12000,2022-02-01,6:00,18:00,Active,3
+60085,Sherif Mounir,1995-03-15,M,Maintenance Technician,1216941092,sherifmounir@gmail.com,12000,2022-02-01,18:00,6:00,Active,3
+60086,Saber Hegazy,1996-07-19,M,Security Guard,1563560289,saberhegazy@gmail.com,9500,2022-02-05,6:00,18:00,Non Active,3
+60183,Islam Eldezel,1993-03-03,M,Security Guard,1281505978,islameldezel@gmail.com,9000,2022-05-05,6:00,18:00,Active,3
+60087,Hany ElMasry,1992-04-04,M,Security Guard,1089853245,hanyelmasry@gmail.com,9500,2022-02-05,18:00,6:00,Active,3
+60088,Mervat ElSayed,1996-09-12,F,Laundry Staff,1515353091,mervatelsayed@gmail.com,7000,2022-02-10,6:00,14:00,Active,3
+60089,Hana Youssef,1994-02-28,F,Laundry Staff,1275694715,hanayoussef@gmail.com,7000,2022-02-10,6:00,14:00,Active,3
+60090,Omnia Selim,1997-05-17,F,Laundry Staff,1529254705,omniaselim@gmail.com,7000,2022-02-10,6:00,14:00,Active,3
+60091,Salah Samir,1993-03-03,M,Laundry Staff,1262415804,salahsamir@gmail.com,7000,2022-02-10,14:00,22:00,Active,3
+60092,Noura Zaki,1992-12-20,F,Laundry Staff,1593880599,nourazaki@gmail.com,7000,2022-02-10,14:00,22:00,Active,3
+60093,Salma Osman,1995-06-30,F,Laundry Staff,1534392446,salmaosman@gmail.com,7000,2022-02-10,14:00,22:00,Active,3
+60094,Ihab Ibrahim,1997-01-08,M,Laundry Staff,1049512272,ihabibrahim@gmail.com,7000,2022-02-10,22:00,6:00,Active,3
+60095,Saber Habib,1993-11-12,M,Laundry Staff,1022520277,saberhabib@gmail.com,7000,2022-02-10,22:00,6:00,Active,3
+60096,Alaa Taher,1996-08-08,M,Laundry Staff,1581321540,alaataher@gmail.com,7000,2022-02-10,22:00,6:00,Active,3
+60097,Noor Farag,1990-02-02,F,Cleaning Staff,1281503378,noorfarag@gmail.com,6500,2022-02-15,6:00,14:00,Active,3
+60098,Nader Awad,1991-04-11,M,Cleaning Staff,1296416275,naderawad@gmail.com,6500,2022-02-15,6:00,14:00,Active,3
+60099,Maged Hamed,1993-06-17,M,Cleaning Staff,1015372341,magedhamed@gmail.com,6500,2022-02-15,6:00,14:00,Active,3
+60100,Hussein Mounir,1994-10-20,M,Cleaning Staff,1021980274,husseinmounir@gmail.com,6500,2022-02-15,14:00,22:00,Active,3
+60101,Ramy Abdelrahman,1995-12-05,M,Cleaning Staff,1141746937,ramyabdelrahman@gmail.com,6500,2022-02-15,14:00,22:00,Active,3
+60102,Ziad Mansour,1996-07-07,M,Cleaning Staff,1014508768,ziadmansour@gmail.com,6500,2022-02-15,14:00,22:00,Active,3
+60103,Karem Badr,1992-01-22,M,Cleaning Staff,1277669750,karembadr@gmail.com,6500,2022-02-15,22:00,6:00,Active,3
+60104,Ehab Badr,1991-03-30,M,Cleaning Staff,1003446499,ehabbadr@gmail.com,6500,2022-02-15,22:00,6:00,Active,3
+60105,Karima Mahdy,1993-05-12,F,Cleaning Staff,1141870192,karimamahdy@gmail.com,6500,2022-02-15,22:00,6:00,Active,3
+60106,Sayed Yacoub,1979-11-11,M,General Manager,1577282128,sayedyacoub@gmail.com,31000,2022-03-01,9:00,17:00,Active,4
+60107,Hend Khaled,1983-08-20,F,Facility Manager,1590912013,hendkhaled@gmail.com,22000,2022-03-05,9:00,17:00,Active,4
+60108,Ehab Atiya,1990-02-02,M,HR Officer,1250372847,ehabatiya@gmail.com,15000,2022-03-10,9:00,17:00,Active,4
+60109,Ahmed Mounir,1992-06-14,M,Accountant,1153238057,ahmedmounir@gmail.com,14000,2022-03-15,9:00,17:00,Active,4
+60110,Anwar ElMasry,1993-09-19,M,Massage Therapist,1595967649,anwarelmasry@gmail.com,11000,2022-03-20,6:00,14:00,Active,4
+60111,Hazem Fathy,1994-12-12,M,Massage Therapist,1526619372,hazemfathy@gmail.com,11000,2022-03-20,14:00,22:00,Active,4
+60112,Noor Abdelrahman,1995-07-15,F,Massage Therapist,1010200074,noorabdelrahman@gmail.com,11000,2022-03-20,22:00,6:00,Active,4
+60113,Yasser Habib,1996-03-03,M,Spa Attendant,1579470029,yasserhabib@gmail.com,10000,2022-03-25,6:00,14:00,Active,4
+60114,Karima Osman,1991-11-18,F,Spa Attendant,1292692697,karimaosman@gmail.com,10000,2022-03-25,14:00,22:00,Active,4
+60115,Ibrahim Selim,1992-02-22,M,Spa Attendant,1584187049,ibrahimselim@gmail.com,10000,2022-03-25,22:00,6:00,Active,4
+60116,Ihab Hussein,1994-05-07,M,Receptionist,1232594692,ihabhussein@gmail.com,9000,2022-03-30,6:00,14:00,Non Active,4
+60184,Mostafa Elmatbagy,2001-08-08,M,Receptionist,1120475742,mostafaelmatabagy@gmail.com,9500,2022-06-30,6:00,14:00,Active,4
+60117,Ahmed AbuBakr,1995-10-12,M,Receptionist,1213676961,ahmedabubakr@gmail.com,9000,2022-03-30,14:00,22:00,Active,4
+60118,Shady Nassar,1993-09-21,M,Receptionist,1093575660,shadynassar@gmail.com,9000,2022-03-30,22:00,6:00,Active,4
+60119,Menna Abdelaziz,1998-01-10,F,Maintenance Technician,1140477742,mennaabdelaziz@gmail.com,12000,2022-04-01,6:00,18:00,Active,4
+60120,Hend Mostafa,1995-03-15,F,Maintenance Technician,1291839693,hendmostafa@gmail.com,12000,2022-04-01,18:00,6:00,Active,4
+60121,Tamer Abdelrahman,1996-07-19,M,Security Guard,1580585882,tamerabdelrahman@gmail.com,9500,2022-04-05,6:00,18:00,Active,4
+60122,Ashraf Farag,1992-04-04,M,Security Guard,1516247735,ashraffarag@gmail.com,9500,2022-04-05,18:00,6:00,Active,4
+60123,Ali Mostafa,1996-09-12,M,Laundry Staff,1275958181,alimostafa@gmail.com,7000,2022-04-10,6:00,14:00,Active,4
+60124,Yasmin Mostafa,1994-02-28,F,Laundry Staff,1505512205,yasminmostafa@gmail.com,7000,2022-04-10,6:00,14:00,Active,4
+60125,Yasser ElGohary,1997-05-17,M,Laundry Staff,1046600900,yasserelgohary@gmail.com,7000,2022-04-10,6:00,14:00,Active,4
+60126,Sally Gaber,1993-03-03,F,Laundry Staff,1571503856,sallygaber@gmail.com,7000,2022-04-10,14:00,22:00,Active,4
+60127,Farida Ishak,1992-12-20,F,Laundry Staff,1057495923,faridaishak@gmail.com,7000,2022-04-10,14:00,22:00,Active,4
+60128,Rania Atiya,1995-06-30,F,Laundry Staff,1288787891,raniaatiya@gmail.com,7000,2022-04-10,14:00,22:00,Active,4
+60129,Karim Gaber,1997-01-08,M,Laundry Staff,1249737181,karimgaber@gmail.com,7000,2022-04-10,22:00,6:00,Active,4
+60130,Ashraf Suleiman,1993-11-12,M,Laundry Staff,1209255216,ashrafsuleiman@gmail.com,7000,2022-04-10,22:00,6:00,Active,4
+60131,Amr Fahmy,1996-08-08,M,Laundry Staff,1067908907,amrfahmy@gmail.com,7000,2022-04-10,22:00,6:00,Active,4
+60132,Karim Kamel,1990-02-02,M,Cleaning Staff,1586911784,karimkamel@gmail.com,6500,2022-04-15,6:00,14:00,Active,4
+60133,Yasmin Anis,1991-04-11,F,Cleaning Staff,1045799273,yasminanis@gmail.com,6500,2022-04-15,6:00,14:00,Active,4
+60134,Amr ElMasry,1993-06-17,M,Cleaning Staff,1501698142,amrelmasry@gmail.com,6500,2022-04-15,6:00,14:00,Active,4
+60135,Maryam Fadl,1994-10-20,F,Cleaning Staff,1556379329,maryamfadl@gmail.com,6500,2022-04-15,14:00,22:00,Active,4
+60136,Marwa Hamed,1995-12-05,F,Cleaning Staff,1065793759,marwahamed@gmail.com,6500,2022-04-15,14:00,22:00,Active,4
+60137,Inas Anwar,1996-07-07,F,Cleaning Staff,1114165187,inasanwar@gmail.com,6500,2022-04-15,14:00,22:00,Active,4
+60138,Omar Mounir,1992-01-22,M,Cleaning Staff,1258186525,omarmounir@gmail.com,6500,2022-04-15,22:00,6:00,Active,4
+60139,Walid Samir,1991-03-30,M,Cleaning Staff,1548612055,walidsamir@gmail.com,6500,2022-07-15,22:00,6:00,Active,4
+60185,Ibrahim Elnewery,1990-02-15,M,Cleaning Staff,1298642461,ibrahimelnewery@gmail.com,6000,2022-04-15,22:00,6:00,Non Active,4
+60140,Mohamed Farag,1993-05-12,M,Cleaning Staff,1585306788,mohamedfarag@gmail.com,6500,2022-04-15,22:00,6:00,Active,4
+60141,Mohanad Khaled,1980-09-10,M,General Manager,1061705170,mohanadkhaled@gmail.com,31500,2022-05-01,9:00,17:00,Active,5
+60142,Ihab Gamal,1983-11-15,M,Facility Manager,1194933359,ihabgamal@gmail.com,22500,2022-05-05,9:00,17:00,Active,5
+60143,Anwar Mohamed,1991-02-22,M,HR Officer,1220534124,anwarmohamed@gmail.com,15500,2022-05-10,9:00,17:00,Active,5
+60144,Shady Yacoub,1992-06-12,M,Accountant,1158450095,shadyyacoub@gmail.com,14500,2022-05-15,9:00,17:00,Active,5
+60145,Ehab Zahran,1993-03-05,M,Massage Therapist,1223640702,ehabzahran@gmail.com,11200,2022-05-20,6:00,14:00,Active,5
+60146,Tamer Fatouh,1994-08-18,M,Massage Therapist,1598488338,tamerfatouh@gmail.com,11200,2022-05-20,14:00,22:00,Active,5
+60147,Hend Mansour,1995-12-10,F,Massage Therapist,1570027662,hendmansour@gmail.com,11200,2022-05-20,22:00,6:00,Active,5
+60148,Omar Elbaz,1996-07-25,M,Spa Attendant,1087302916,omarelbaz@gmail.com,10200,2022-05-25,6:00,14:00,Active,5
+60149,Ramadan ElShazly,1993-11-12,M,Spa Attendant,1036249845,ramadanelshazly@gmail.com,10200,2022-05-25,14:00,22:00,Active,5
+60150,Galal AbuBakr,1992-05-30,M,Spa Attendant,1182666356,galalabubakr@gmail.com,10200,2022-05-25,22:00,6:00,Active,5
+60151,Fouad Habib,1994-09-15,M,Receptionist,1172232344,fouadhabib@gmail.com,9200,2022-05-30,6:00,14:00,Active,5
+60152,Khaled Ibrahim,1995-06-20,M,Receptionist,1264893936,khaledibrahim@gmail.com,9200,2022-05-30,14:00,22:00,Active,5
+60153,Menna Ibrahim,1993-03-25,F,Receptionist,1062394301,mennaibrahim@gmail.com,9200,2022-05-30,22:00,6:00,Active,5
+60186,Asser Elgendy,2000-07-25,,Maintenance Technician,1067896339,asserelgendy@gmail.com,13000,2022-06-01,6:00,18:00,Non Active,5
+60154,Farida Anis,1996-02-18,F,Maintenance Technician,1558461818,faridaanis@gmail.com,12200,2022-09-01,6:00,18:00,Active,5
+60155,Khalil Morsi,1997-09-09,M,Maintenance Technician,1098116677,khalilmorsi@gmail.com,12200,2022-06-01,18:00,6:00,Active,5
+60156,Tamer ElGohary,1993-01-15,M,Security Guard,1179520597,tamerelgohary@gmail.com,9600,2022-06-05,6:00,18:00,Active,5
+60157,Hana Farag,1994-05-10,F,Security Guard,1036023439,hanafarag@gmail.com,9600,2022-06-05,18:00,6:00,Active,5
+60158,Nabil Selim,1995-07-07,M,Laundry Staff,1543258988,nabilselim@gmail.com,7100,2022-06-10,6:00,14:00,Active,5
+60159,Mostafa Hegazy,1996-12-20,M,Laundry Staff,1032949803,mostafahegazy@gmail.com,7100,2022-06-10,6:00,14:00,Active,5
+60160,Ziad ElMasry,1994-11-11,M,Laundry Staff,1111631697,ziadelmasry@gmail.com,7100,2022-06-10,6:00,14:00,Active,5
+60161,Reem ElSayed,1995-04-05,F,Laundry Staff,1537437115,reemelsayed@gmail.com,7100,2022-06-10,14:00,22:00,Active,5
+60162,Maged Badr,1996-08-22,M,Laundry Staff,1260505620,magedbadr@gmail.com,7100,2022-06-10,14:00,22:00,Active,5
+60163,Lamia Morsi,1993-03-18,F,Laundry Staff,1232730796,lamiamorsi@gmail.com,7100,2022-06-10,14:00,22:00,Active,5
+60164,Ashraf Khaled,1997-01-10,M,Laundry Staff,1562372114,ashrafkhaled@gmail.com,7100,2022-06-10,22:00,6:00,Active,5
+60165,Sally Hussein,1996-05-12,F,Laundry Staff,1576483924,sallyhussein@gmail.com,7100,2022-06-10,22:00,6:00,Active,5
+60166,Sara Abdelrahman,1995-02-25,F,Laundry Staff,1581917334,saraabdelrahman@gmail.com,7100,2022-06-10,22:00,6:00,Active,5
+60167,Ehab Naguib,1992-06-18,M,Cleaning Staff,1189682738,ehabnaguib@gmail.com,6600,2022-06-15,6:00,14:00,Active,5
+60168,Khaled Anis,1993-08-12,M,Cleaning Staff,1550867083,khaledanis@gmail.com,6600,2022-06-15,6:00,14:00,Active,5
+60169,Ismail Suleiman,1994-10-20,M,Cleaning Staff,1145150390,ismailsuleiman@gmail.com,6600,2022-06-15,6:00,14:00,Active,5
+60170,Sayed Gaber,1995-12-05,M,Cleaning Staff,1503852048,sayedgaber@gmail.com,6600,2022-06-15,14:00,22:00,Active,5
+60171,Fouad Khedr,1996-07-07,M,Cleaning Staff,1166344695,fouadkhedr@gmail.com,6600,2022-06-15,14:00,22:00,Active,5
+60172,Hana Said,1993-05-12,F,Cleaning Staff,1143622663,hanasaid@gmail.com,6600,2022-06-15,14:00,22:00,Active,5
+60173,Mervat Ali,1992-01-22,F,Cleaning Staff,1024406132,mervatali@gmail.com,6600,2022-06-15,22:00,6:00,Active,5
+60174,Adham AbuBakr,1991-03-30,M,Cleaning Staff,1265437844,adhamabubakr@gmail.com,6600,2022-06-15,22:00,6:00,Active,5
+60175,Sherine Yacoub,1993-05-12,F,Cleaning Staff,1528470244,sherineyacoub@gmail.com,6600,2022-06-15,22:00,6:00,Active,5

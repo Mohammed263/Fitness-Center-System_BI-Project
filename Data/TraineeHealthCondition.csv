@@ -1,0 +1,1020 @@
+ID,Health_Condition
+20002,Hypertension
+20002,Back Pain
+20005,Asthma
+20009,Diabetes
+20012,Diabetes
+20012,Heart Condition
+20014,Asthma
+20017,Anemia
+20019,Hypertension
+20019,Diabetes
+20020,Diabetes
+20023,Thyroid Disorder
+20024,Back Pain
+20027,Asthma
+20030,Back Pain
+20030,Anemia
+20033,Asthma
+20034,Anemia
+20036,Diabetes
+20037,Diabetes
+20038,Diabetes
+20040,Diabetes
+20043,Back Pain
+20046,Heart Condition
+20047,Hypertension
+20048,Asthma
+20050,Asthma
+20053,Back Pain
+20054,Anemia
+20056,Back Pain
+20057,Diabetes
+20060,Anemia
+20062,Hypertension
+20062,Thyroid Disorder
+20065,Asthma
+20066,Diabetes
+20068,Diabetes
+20070,Heart Condition
+20070,Back Pain
+20071,Asthma
+20073,Back Pain
+20075,Diabetes
+20077,Diabetes
+20078,Anemia
+20080,Asthma
+20081,Back Pain
+20082,Anemia
+20083,Diabetes
+20084,Hypertension
+20084,Diabetes
+20085,Asthma
+20086,Back Pain
+20087,Asthma
+20088,Back Pain
+20088,Heart Condition
+20090,Diabetes
+20092,Anemia
+20094,Hypertension
+20095,Asthma
+20097,Back Pain
+20098,Diabetes
+20099,Back Pain
+20100,Asthma
+20100,Thyroid Disorder
+20101,Diabetes
+20103,Hypertension
+20105,Back Pain
+20106,Asthma
+20108,Anemia
+20109,Heart Condition
+20109,Diabetes
+20110,Diabetes
+20112,Diabetes
+20113,Back Pain
+20114,Asthma
+20115,Hypertension
+20115,Back Pain
+20116,Asthma
+20117,Diabetes
+20118,Anemia
+20119,Anemia
+20120,Back Pain
+20121,Hypertension
+20123,Asthma
+20123,Thyroid Disorder
+20124,Heart Condition
+20125,Asthma
+20126,Back Pain
+20127,Back Pain
+20128,Diabetes
+20129,Diabetes
+20130,Anemia
+20131,Asthma
+20131,Back Pain
+20132,Hypertension
+20133,Anemia
+20134,Back Pain
+20135,Diabetes
+20136,Back Pain
+20138,Asthma
+20140,Diabetes
+20141,Hypertension
+20142,Heart Condition
+20144,Back Pain
+20144,Diabetes
+20146,Anemia
+20148,Asthma
+20150,Asthma
+20151,Back Pain
+20152,Thyroid Disorder
+20154,Hypertension
+20155,Asthma
+20156,Back Pain
+20157,Diabetes
+20158,Back Pain
+20159,Diabetes
+20160,Anemia
+20161,Heart Condition
+20162,Anemia
+20163,Asthma
+20164,Hypertension
+20165,Back Pain
+20166,Asthma
+20168,Diabetes
+20170,Diabetes
+20171,Asthma
+20172,Back Pain
+20173,Heart Condition
+20174,Back Pain
+20175,Asthma
+20177,Anemia
+20178,Back Pain
+20179,Anemia
+20180,Asthma
+20182,Hypertension
+20183,Back Pain
+20184,Diabetes
+20186,Diabetes
+20187,Asthma
+20188,Back Pain
+20189,Asthma
+20190,Back Pain
+20191,Anemia
+20192,Anemia
+20193,Asthma
+20194,Hypertension
+20196,Back Pain
+20197,Heart Condition
+20198,Asthma
+20199,Diabetes
+20200,Diabetes
+21002,Hypertension
+21003,Asthma
+21003,Back Pain
+21005,Asthma
+21007,Diabetes
+21008,Diabetes
+21009,Back Pain
+21010,Back Pain
+21011,Heart Condition
+21012,Hypertension
+21013,Asthma
+21014,Back Pain
+21015,Anemia
+21016,Asthma
+21018,Diabetes
+21020,Diabetes
+21021,Back Pain
+21022,Hypertension
+21023,Back Pain
+21025,Asthma
+21026,Thyroid Disorder
+21027,Back Pain
+21028,Asthma
+21029,Diabetes
+21030,Diabetes
+21031,Anemia
+21032,Hypertension
+21034,Back Pain
+21035,Asthma
+21036,Back Pain
+21037,Heart Condition
+21039,Asthma
+21040,Diabetes
+21041,Back Pain
+21042,Hypertension
+21043,Asthma
+21044,Diabetes
+21045,Anemia
+21046,Anemia
+21047,Back Pain
+21049,Asthma
+21050,Back Pain
+21051,Diabetes
+21052,Asthma
+21053,Diabetes
+21054,Hypertension
+21055,Asthma
+21056,Back Pain
+21057,Heart Condition
+21058,Back Pain
+21059,Anemia
+21060,Asthma
+21061,Diabetes
+21062,Back Pain
+21063,Asthma
+21064,Diabetes
+21065,Hypertension
+21066,Thyroid Disorder
+21067,Back Pain
+21068,Asthma
+21069,Asthma
+21070,Diabetes
+21071,Back Pain
+21072,Anemia
+21073,Heart Condition
+21075,Back Pain
+21076,Asthma
+21077,Diabetes
+21078,Asthma
+21079,Hypertension
+21080,Diabetes
+21081,Back Pain
+21082,Back Pain
+21083,Asthma
+21083,Thyroid Disorder
+21084,Asthma
+21085,Diabetes
+21086,Diabetes
+21087,Anemia
+21088,Hypertension
+21089,Back Pain
+21090,Asthma
+21091,Heart Condition
+21092,Asthma
+21093,Back Pain
+21094,Diabetes
+21095,Back Pain
+21096,Diabetes
+21097,Hypertension
+21098,Asthma
+21099,Anemia
+21100,Back Pain
+21102,Asthma
+21103,Diabetes
+21104,Asthma
+21105,Back Pain
+21106,Back Pain
+21107,Hypertension
+21108,Diabetes
+21109,Anemia
+21110,Heart Condition
+21111,Asthma
+21112,Asthma
+21113,Diabetes
+21114,Back Pain
+21115,Hypertension
+21116,Diabetes
+21117,Asthma
+21118,Back Pain
+21119,Asthma
+21120,Back Pain
+21121,Diabetes
+21122,Hypertension
+21123,Asthma
+21124,Anemia
+21125,Diabetes
+21126,Back Pain
+21127,Heart Condition
+21128,Asthma
+21129,Diabetes
+21130,Asthma
+21131,Back Pain
+21132,Back Pain
+21133,Hypertension
+21134,Diabetes
+21135,Anemia
+21136,Asthma
+21137,Asthma
+21138,Back Pain
+21139,Diabetes
+21140,Hypertension
+21141,Diabetes
+21142,Back Pain
+21143,Asthma
+21144,Anemia
+21145,Back Pain
+21146,Asthma
+21147,Heart Condition
+21148,Diabetes
+21149,Hypertension
+21150,Asthma
+21151,Back Pain
+21152,Diabetes
+21153,Anemia
+21154,Back Pain
+21155,Asthma
+21156,Diabetes
+21157,Hypertension
+21158,Asthma
+21159,Back Pain
+21160,Diabetes
+21161,Anemia
+21162,Asthma
+21163,Back Pain
+21164,Back Pain
+21165,Asthma
+21166,Diabetes
+21167,Hypertension
+21168,Asthma
+21169,Diabetes
+21170,Back Pain
+21171,Heart Condition
+21172,Anemia
+21173,Asthma
+21174,Diabetes
+21175,Asthma
+21176,Back Pain
+21177,Back Pain
+21178,Hypertension
+21179,Diabetes
+21180,Anemia
+21181,Asthma
+21182,Asthma
+21183,Back Pain
+21184,Diabetes
+21185,Hypertension
+21186,Asthma
+21187,Diabetes
+21188,Back Pain
+21189,Back Pain
+21190,Anemia
+21191,Asthma
+21192,Heart Condition
+21193,Diabetes
+21194,Asthma
+21195,Back Pain
+21196,Hypertension
+21197,Diabetes
+21198,Back Pain
+21199,Asthma
+21200,Back Pain
+22001,Back Pain
+22002,Asthma
+22003,Hypertension
+22004,Diabetes
+22005,Back Pain
+22006,Anemia
+22007,Asthma
+22008,Diabetes
+22009,Heart Condition
+22010,Back Pain
+22011,Asthma
+22012,Hypertension
+22013,Diabetes
+22014,Back Pain
+22015,Asthma
+22016,Anemia
+22017,Back Pain
+22018,Diabetes
+22019,Asthma
+22020,Hypertension
+22021,Diabetes
+22022,Back Pain
+22023,Asthma
+22024,Heart Condition
+22025,Back Pain
+22026,Asthma
+22027,Hypertension
+22028,Diabetes
+22029,Diabetes
+22030,Anemia
+22031,Back Pain
+22032,Asthma
+22033,Back Pain
+22034,Asthma
+22035,Hypertension
+22036,Diabetes
+22037,Diabetes
+22038,Anemia
+22039,Back Pain
+22040,Asthma
+22041,Asthma
+22042,Back Pain
+22043,Hypertension
+22044,Diabetes
+22045,Back Pain
+22046,Diabetes
+22047,Anemia
+22048,Asthma
+22049,Heart Condition
+22050,Asthma
+22051,Hypertension
+22052,Back Pain
+22053,Asthma
+22054,Diabetes
+22055,Back Pain
+22056,Asthma
+22057,Diabetes
+22058,Anemia
+22059,Back Pain
+22060,Hypertension
+22061,Asthma
+22062,Diabetes
+22063,Back Pain
+22064,Asthma
+22065,Back Pain
+22066,Diabetes
+22067,Asthma
+22068,Hypertension
+22069,Anemia
+22070,Diabetes
+22071,Back Pain
+22072,Back Pain
+22073,Asthma
+22074,Asthma
+22075,Diabetes
+22076,Hypertension
+22077,Back Pain
+22078,Anemia
+22079,Asthma
+22080,Diabetes
+22081,Asthma
+22082,Back Pain
+22083,Back Pain
+22084,Diabetes
+22085,Hypertension
+22086,Asthma
+22087,Back Pain
+22088,Diabetes
+22089,Anemia
+22090,Asthma
+22091,Back Pain
+22092,Back Pain
+22093,Diabetes
+22094,Asthma
+22095,Hypertension
+22096,Diabetes
+22097,Back Pain
+22098,Anemia
+22099,Asthma
+22100,Asthma
+22101,Back Pain
+22102,Hypertension
+22103,Diabetes
+22104,Diabetes
+22105,Back Pain
+22106,Asthma
+22107,Asthma
+22108,Anemia
+22109,Back Pain
+22110,Back Pain
+22111,Diabetes
+22112,Asthma
+22113,Hypertension
+22114,Diabetes
+22115,Asthma
+22116,Back Pain
+22117,Asthma
+22118,Back Pain
+22119,Anemia
+22120,Hypertension
+22121,Diabetes
+22122,Back Pain
+22123,Asthma
+22124,Diabetes
+22125,Asthma
+22126,Back Pain
+22127,Back Pain
+22128,Hypertension
+22129,Diabetes
+22130,Asthma
+22131,Anemia
+22132,Asthma
+22133,Back Pain
+22134,Back Pain
+22135,Diabetes
+22136,Hypertension
+22137,Diabetes
+22138,Asthma
+22139,Back Pain
+22140,Asthma
+22141,Anemia
+22142,Back Pain
+22143,Diabetes
+22144,Asthma
+22145,Back Pain
+22146,Hypertension
+22147,Diabetes
+22148,Asthma
+22149,Asthma
+22150,Back Pain
+22151,Anemia
+22152,Back Pain
+22153,Diabetes
+22154,Asthma
+22155,Hypertension
+22156,Diabetes
+22157,Asthma
+22158,Back Pain
+22159,Asthma
+22160,Anemia
+22161,Back Pain
+22162,Diabetes
+22163,Back Pain
+22164,Hypertension
+22165,Diabetes
+22166,Asthma
+22167,Asthma
+22168,Anemia
+22169,Back Pain
+22170,Back Pain
+22171,Diabetes
+22172,Asthma
+22173,Hypertension
+22174,Diabetes
+22175,Asthma
+22176,Back Pain
+22177,Asthma
+22178,Back Pain
+22179,Diabetes
+22180,Anemia
+22181,Hypertension
+22182,Diabetes
+22183,Asthma
+22184,Back Pain
+22185,Asthma
+22186,Back Pain
+22187,Diabetes
+22188,Back Pain
+22189,Hypertension
+22190,Asthma
+22191,Diabetes
+22192,Asthma
+22193,Anemia
+22194,Back Pain
+22195,Back Pain
+22196,Diabetes
+22197,Asthma
+22198,Hypertension
+22199,Diabetes
+22200,Asthma
+23001,Back Pain
+23002,Hypertension
+23003,Diabetes
+23004,Diabetes
+23005,Anemia
+23006,Back Pain
+23007,Asthma
+23008,Back Pain
+23009,Diabetes
+23010,Hypertension
+23011,Diabetes
+23012,Back Pain
+23013,Thyroid Disorder
+23014,Anemia
+23015,Asthma
+23016,Back Pain
+23017,Diabetes
+23018,Hypertension
+23019,Diabetes
+23020,Diabetes
+23021,Back Pain
+23022,Asthma
+23023,Anemia
+23024,Anemia
+23025,Back Pain
+23026,Heart Condition
+23027,Asthma
+23028,Thyroid Disorder
+23029,Back Pain
+23030,Hypertension
+23031,Diabetes
+23032,Diabetes
+23033,Diabetes
+23034,Anemia
+23035,Back Pain
+23036,Asthma
+23037,Back Pain
+23038,Back Pain
+23039,Hypertension
+23040,Diabetes
+23041,Diabetes
+23042,Diabetes
+23043,Back Pain
+23044,Hypertension
+23045,Diabetes
+23046,Diabetes
+23047,Back Pain
+23048,Diabetes
+23049,Diabetes
+23050,Back Pain
+23051,Asthma
+23052,Anemia
+23053,Anemia
+23054,Back Pain
+23055,Heart Condition
+23056,Thyroid Disorder
+23057,Asthma
+23058,Back Pain
+23059,Hypertension
+23060,Diabetes
+23061,Diabetes
+23062,Back Pain
+23063,Anemia
+23064,Asthma
+23065,Anemia
+23066,Back Pain
+23067,Hypertension
+23068,Diabetes
+23069,Diabetes
+23070,Diabetes
+23071,Back Pain
+23072,Thyroid Disorder
+23073,Asthma
+23074,Back Pain
+23075,Anemia
+23076,Asthma
+23077,Back Pain
+23078,Hypertension
+23079,Diabetes
+23080,Diabetes
+23081,Back Pain
+23082,Anemia
+23083,Anemia
+23084,Back Pain
+23085,Heart Condition
+23086,Asthma
+23087,Back Pain
+23088,Diabetes
+23089,Hypertension
+23090,Diabetes
+23091,Diabetes
+23092,Back Pain
+23093,Anemia
+23094,Asthma
+23095,Back Pain
+23096,Hypertension
+23097,Diabetes
+23098,Diabetes
+23099,Diabetes
+23100,Back Pain
+23101,Asthma
+23102,Anemia
+23103,Back Pain
+23104,Asthma
+23105,Heart Condition
+23106,Thyroid Disorder
+23107,Back Pain
+23108,Diabetes
+23109,Hypertension
+23110,Diabetes
+23111,Diabetes
+23112,Back Pain
+23113,Anemia
+23114,Back Pain
+23115,Asthma
+23116,Anemia
+23117,Back Pain
+23118,Hypertension
+23119,Diabetes
+23120,Diabetes
+23121,Diabetes
+23122,Anemia
+23123,Back Pain
+23124,Asthma
+23125,Back Pain
+23126,Heart Condition
+23127,Asthma
+23128,Thyroid Disorder
+23129,Back Pain
+23130,Diabetes
+23131,Diabetes
+23132,Diabetes
+23133,Hypertension
+23134,Back Pain
+23135,Back Pain
+23136,Anemia
+23137,Anemia
+23138,Back Pain
+23139,Heart Condition
+23140,Asthma
+23141,Hypertension
+23142,Back Pain
+23143,Diabetes
+23144,Back Pain
+23145,Back Pain
+23146,Asthma
+23147,Anemia
+23148,Back Pain
+23149,Back Pain
+23150,Hypertension
+23151,Back Pain
+23152,Diabetes
+23153,Diabetes
+23154,Back Pain
+23155,Hypertension
+23156,Back Pain
+23157,Back Pain
+23158,Diabetes
+23159,Back Pain
+23160,Diabetes
+23161,Back Pain
+23162,Asthma
+23163,Anemia
+23164,Anemia
+23165,Back Pain
+23166,Heart Condition
+23167,Asthma
+23168,Back Pain
+23169,Hypertension
+23170,Diabetes
+23171,Back Pain
+23172,Diabetes
+23173,Back Pain
+23174,Anemia
+23175,Asthma
+23176,Back Pain
+23177,Hypertension
+23178,Diabetes
+23179,Back Pain
+23180,Diabetes
+23181,Back Pain
+23182,Asthma
+23183,Anemia
+23184,Back Pain
+23185,Asthma
+23186,Heart Condition
+23187,Thyroid Disorder
+23188,Back Pain
+23189,Back Pain
+23190,Diabetes
+23191,Back Pain
+23192,Anemia
+23193,Asthma
+23194,Back Pain
+23195,Hypertension
+23196,Diabetes
+23197,Diabetes
+23198,Back Pain
+23199,Back Pain
+23200,Asthma
+24001,Back Pain
+24001,Hypertension
+24002,Asthma
+24002,Back Pain
+24003,Anemia
+24004,Hypertension
+24004,Diabetes
+24005,Back Pain
+24006,Diabetes
+24007,Asthma
+24008,Back Pain
+24009,Asthma
+24009,Back Pain
+24010,Back Pain
+24011,Hypertension
+24011,Diabetes
+24012,Diabetes
+24012,Back Pain
+24013,Asthma
+24013,Anemia
+24014,Back Pain
+24015,Back Pain
+24015,Hypertension
+24016,Diabetes
+24017,Back Pain
+24018,Asthma
+24019,Asthma
+24020,Back Pain
+24021,Hypertension
+24021,Back Pain
+24022,Diabetes
+24023,Diabetes
+24024,Back Pain
+24024,Asthma
+24025,Anemia
+24026,Back Pain
+24026,Heart Condition
+24027,Asthma
+24028,Thyroid Disorder
+24029,Back Pain
+24029,Hypertension
+24029,Diabetes
+24030,Back Pain
+24030,Diabetes
+24031,Back Pain
+24031,Asthma
+24032,Anemia
+24033,Back Pain
+24034,Hypertension
+24034,Diabetes
+24035,Diabetes
+24036,Back Pain
+24037,Back Pain
+24037,Asthma
+24038,Asthma
+24039,Thyroid Disorder
+24040,Back Pain
+24040,Diabetes
+24041,Hypertension
+24041,Diabetes
+24042,Back Pain
+24043,Back Pain
+24043,Asthma
+24044,Anemia
+24045,Anemia
+24046,Back Pain
+24047,Hypertension
+24047,Diabetes
+24048,Diabetes
+24049,Back Pain
+24050,Back Pain
+24050,Asthma
+24051,Anemia
+24051,Asthma
+24052,Back Pain
+24052,Thyroid Disorder
+24053,Heart Condition
+24054,Hypertension
+24054,Back Pain
+24055,Diabetes
+24056,Diabetes
+24057,Back Pain
+24057,Asthma
+24058,Anemia
+24059,Asthma
+24059,Anemia
+24060,Back Pain
+24061,Hypertension
+24061,Diabetes
+24062,Back Pain
+24062,Diabetes
+24063,Back Pain
+24063,Asthma
+24064,Anemia
+24064,Back Pain
+24065,Hypertension
+24066,Diabetes
+24067,osteoarthritis
+24068,Back Pain
+24068,Asthma
+24068,Anemia
+24069,Back Pain
+24069,Asthma
+24070,Thyroid Disorder
+24071,Hypertension
+24071,Diabetes
+24072,Diabetes
+24073,Back Pain
+24073,osteoarthritis
+24074,Back Pain
+24074,Asthma
+24075,Anemia
+24076,Back Pain
+24076,Hypertension
+24077,Diabetes
+24078,Diabetes
+24079,osteoarthritis
+24079,Back Pain
+24080,Asthma
+24080,Anemia
+24081,Back Pain
+24082,Asthma
+24083,Thyroid Disorder
+24084,Back Pain
+24084,Hypertension
+24085,Diabetes
+24085,osteoarthritis
+24086,Diabetes
+24086,Back Pain
+24087,Asthma
+24087,Anemia
+24088,Anemia
+24088,Back Pain
+24089,Hypertension
+24090,Diabetes
+24091,Diabetes
+24092,osteoarthritis
+24093,Back Pain
+24093,Asthma
+24094,Anemia
+24095,Anemia
+24095,Back Pain
+24096,Heart Condition
+24097,Asthma
+24097,Hypertension
+24098,Back Pain
+24099,osteoarthritis
+24099,Diabetes
+24100,Diabetes
+24100,Back Pain
+24101,Asthma
+24101,Anemia
+24102,Back Pain
+24103,Hypertension
+24103,Diabetes
+24104,Diabetes
+24105,osteoarthritis
+24106,Back Pain
+24106,Asthma
+24107,Anemia
+24108,Back Pain
+24109,Hypertension
+24109,Diabetes
+24110,Diabetes
+24111,osteoarthritis
+24112,Back Pain
+24113,Asthma
+24113,Anemia
+24114,Back Pain
+24115,Asthma
+24116,Thyroid Disorder
+24117,Back Pain
+24117,Diabetes
+24118,Hypertension
+24118,Diabetes
+24119,osteoarthritis
+24120,Back Pain
+24121,Asthma
+24121,Anemia
+24122,Back Pain
+24123,Hypertension
+24124,Diabetes
+24125,Diabetes
+24125,osteoarthritis
+24126,Back Pain
+24126,Asthma
+24127,Anemia
+24128,Back Pain
+24128,Anemia
+24129,Hypertension
+24130,Diabetes
+24130,osteoarthritis
+24131,Diabetes
+24132,Back Pain
+24132,Asthma
+24133,Anemia
+24134,Back Pain
+24135,Asthma
+24136,Thyroid Disorder
+24137,Back Pain
+24138,Hypertension
+24138,Diabetes
+24139,Diabetes
+24140,osteoarthritis
+24141,Back Pain
+24141,Asthma
+24142,Anemia
+24143,Anemia
+24144,Back Pain
+24145,Hypertension
+24146,Diabetes
+24147,Diabetes
+24147,osteoarthritis
+24148,Back Pain
+24149,Asthma
+24150,Anemia
+24151,Back Pain
+24152,Heart Condition
+24153,Asthma
+24154,Back Pain
+24155,Hypertension
+24155,Diabetes
+24156,Diabetes
+24156,osteoarthritis
+24157,Back Pain
+24158,Asthma
+24158,Anemia
+24159,Back Pain
+24160,Anemia
+24161,Back Pain
+24162,Hypertension
+24162,Diabetes
+24163,Diabetes
+24164,osteoarthritis
+24164,Back Pain
+24165,Asthma
+24165,Anemia
+24166,Back Pain
+24167,Asthma
+24168,Thyroid Disorder
+24169,Back Pain
+24169,Hypertension
+24170,Diabetes
+24171,Diabetes
+24171,osteoarthritis
+24172,Back Pain
+24173,Asthma
+24174,Anemia
+24175,Back Pain
+24176,Hypertension
+24176,Diabetes
+24177,Diabetes
+24178,osteoarthritis
+24179,Back Pain
+24180,Asthma
+24181,Anemia
+24182,Back Pain
+24183,Asthma
+24183,Thyroid Disorder
+24184,Back Pain
+24185,Hypertension
+24186,Diabetes
+24187,Diabetes
+24188,osteoarthritis
+24189,Back Pain
+24190,Asthma
+24191,Anemia
+24192,Back Pain
+24193,Hypertension
+24194,Diabetes
+24195,Diabetes
+24196,osteoarthritis
+24196,Back Pain
+24197,Asthma
+24198,Anemia
+24199,Anemia
+24200,Back Pain

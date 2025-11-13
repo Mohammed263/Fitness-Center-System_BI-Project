@@ -1,0 +1,6 @@
+ID,Name,No of Months,Nutrition Sessions,PT Sessions,Classes,Spa,No of Invitations,Price,Freezeable days
+1,Bronze Package,3,2,6,12,6,1,5000,14
+2,Silver Package,6,4,12,24,15,2,8000,30
+3,Gold Package,12,8,24,48,30,5,15000,60
+4,Platinum Package,12,12,36,60,50,10,16000,74
+5,Elite Package,24,16,48,72,100,12,30000,120

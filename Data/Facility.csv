@@ -1,0 +1,121 @@
+ID,Name,Capacity,Status,Branch ID
+50001,Gym Floor,80,Operational,1
+50002,Cardio Zone,60,Operational,1
+50003,Weightlifting Area,50,Operational,1
+50004,Functional Training Zone,40,Operational,1
+50005,CrossFit Box,35,Operational,1
+50006,Aerobics Studio,30,Operational,1
+50007,Yoga Studio,25,Operational,1
+50008,Spinning Room,25,Operational,1
+50009,Boxing Arena,40,Operational,1
+50010,Personal Training Room,10,Operational,1
+50011,Sauna Room,8,Operational,1
+50012,Steam Room,10,Operational,1
+50013,Jacuzzi Area,6,Operational,1
+50014,Massage Room,4,Operational,1
+50015,Swimming Pool,30,Operational,1
+50016,Relaxation Lounge,12,Operational,1
+50017,Cold Plunge Pool,4,Operational,1
+50018,Spa Reception,6,Operational,1
+50019,Locker Room (Male),20,Operational,1
+50020,Locker Room (Female),20,Operational,1
+50021,Shower Area,15,Operational,1
+50022,Equipment Storage,5,Operational,1
+50023,Laundry Room,4,Operational,1
+50024,Maintenance Room,3,Operational,1
+50026,Gym Floor,70,Operational,2
+50027,Cardio Zone,55,Operational,2
+50028,Weightlifting Area,45,Operational,2
+50029,Functional Training Zone,35,Operational,2
+50030,CrossFit Box,30,Operational,2
+50031,Aerobics Studio,25,Operational,2
+50032,Yoga Studio,20,Operational,2
+50033,Spinning Room,20,Operational,2
+50034,Boxing Arena,35,Operational,2
+50035,Personal Training Room,10,Operational,2
+50036,Sauna Room,8,Under Maintenance,2
+50037,Steam Room,10,Operational,2
+50038,Jacuzzi Area,6,Operational,2
+50039,Massage Room,4,Operational,2
+50040,Swimming Pool,25,Operational,2
+50041,Relaxation Lounge,10,Operational,2
+50042,Cold Plunge Pool,4,Operational,2
+50043,Spa Reception,6,Operational,2
+50044,Locker Room (Male),18,Operational,2
+50045,Locker Room (Female),18,Operational,2
+50046,Shower Area,15,Operational,2
+50047,Equipment Storage,5,Operational,2
+50048,Laundry Room,4,Operational,2
+50049,Maintenance Room,3,Operational,2
+50051,Gym Floor,65,Operational,3
+50052,Cardio Zone,50,Operational,3
+50053,Weightlifting Area,40,Operational,3
+50054,Functional Training Zone,35,Operational,3
+50055,CrossFit Box,30,Operational,3
+50056,Aerobics Studio,20,Operational,3
+50057,Yoga Studio,18,Operational,3
+50058,Spinning Room,18,Operational,3
+50059,Boxing Arena,30,Operational,3
+50060,Personal Training Room,8,Operational,3
+50061,Sauna Room,8,Operational,3
+50062,Steam Room,10,Operational,3
+50063,Jacuzzi Area,5,Operational,3
+50064,Massage Room,3,Operational,3
+50065,Swimming Pool,20,Operational,3
+50066,Relaxation Lounge,10,Operational,3
+50067,Cold Plunge Pool,3,Operational,3
+50068,Spa Reception,5,Operational,3
+50069,Locker Room (Male),15,Operational,3
+50070,Locker Room (Female),15,Operational,3
+50071,Shower Area,12,Operational,3
+50072,Equipment Storage,4,Operational,3
+50073,Laundry Room,3,Operational,3
+50074,Maintenance Room,3,Operational,3
+50076,Gym Floor,55,Operational,4
+50077,Cardio Zone,40,Operational,4
+50078,Weightlifting Area,35,Operational,4
+50079,Functional Training Zone,25,Operational,4
+50080,CrossFit Box,25,Operational,4
+50081,Aerobics Studio,20,Operational,4
+50082,Yoga Studio,15,Operational,4
+50083,Spinning Room,15,Operational,4
+50084,Boxing Arena,25,Operational,4
+50085,Personal Training Room,8,Operational,4
+50086,Sauna Room,8,Under Maintenance,4
+50087,Steam Room,10,Operational,4
+50088,Jacuzzi Area,5,Operational,4
+50089,Massage Room,3,Operational,4
+50090,Swimming Pool,20,Operational,4
+50091,Relaxation Lounge,10,Operational,4
+50092,Cold Plunge Pool,3,Operational,4
+50093,Spa Reception,5,Operational,4
+50094,Locker Room (Male),12,Operational,4
+50095,Locker Room (Female),12,Operational,4
+50096,Shower Area,10,Operational,4
+50097,Equipment Storage,4,Operational,4
+50098,Laundry Room,3,Operational,4
+50099,Maintenance Room,3,Operational,4
+50101,Gym Floor,50,Operational,5
+50102,Cardio Zone,35,Operational,5
+50103,Weightlifting Area,30,Operational,5
+50104,Functional Training Zone,25,Operational,5
+50105,CrossFit Box,20,Operational,5
+50106,Aerobics Studio,15,Operational,5
+50107,Yoga Studio,15,Operational,5
+50108,Spinning Room,12,Operational,5
+50109,Boxing Arena,20,Operational,5
+50110,Personal Training Room,6,Operational,5
+50111,Sauna Room,6,Operational,5
+50112,Steam Room,8,Operational,5
+50113,Jacuzzi Area,4,Operational,5
+50114,Massage Room,3,Operational,5
+50115,Swimming Pool,15,Operational,5
+50116,Relaxation Lounge,8,Operational,5
+50117,Cold Plunge Pool,3,Operational,5
+50118,Spa Reception,4,Operational,5
+50119,Locker Room (Male),10,Operational,5
+50120,Locker Room (Female),10,Operational,5
+50121,Shower Area,8,Operational,5
+50122,Equipment Storage,3,Operational,5
+50123,Laundry Room,2,Operational,5
+50124,Maintenance Room,3,Operational,5
