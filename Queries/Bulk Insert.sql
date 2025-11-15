@@ -26,16 +26,29 @@ delete from trainer
 
 -- ================================================
 
---insert Data into TrainerSchedule Table
-BULK INSERT TrainerSchedule
-FROM 'D:\ITI\Graduation Project\Data\TrainerSchedule.csv'
+--insert Data into Trainer Table
+BULK INSERT Trainer
+FROM 'D:\ITI\Graduation Project\Data\Trainer.csv'
 WITH (
     FIELDTERMINATOR = ',',   
     ROWTERMINATOR = '0x0a',    
     FIRSTROW = 2             
 )
-select * from TrainerSchedule
-delete from TrainerSchedule
+select * from Trainer
+delete from trainer
+
+-- ================================================
+
+--insert Data into TrainerCertificates Table
+BULK INSERT TrainerCertificates
+FROM 'D:\ITI\Graduation Project\Data\TrainerCertificates.csv'
+WITH (
+    FIELDTERMINATOR = ',',   
+    ROWTERMINATOR = '0x0a',    
+    FIRSTROW = 2             
+)
+select * from TrainerCertificates
+delete from TrainerCertificates
 
 -- ================================================
 

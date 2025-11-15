@@ -20,13 +20,21 @@ CREATE TABLE Trainer (
     EmailAddress VARCHAR(50),
     PhoneNumber VARCHAR(20),
     EmploymentStatus VARCHAR(20),
-    [Certificates] VARCHAR(200),
     Specialization VARCHAR(100),
     Salary float,
     HiringDate DATE
 ) on GymPerson
 GO
 
+-- ================================================
+-- Table: TrainerCertificates
+CREATE TABLE TrainerCertificates (
+	 TrainerID INT,
+	 [Certificates] VARCHAR(200),
+	 PRIMARY KEY (TrainerID, [Certificates]),
+	 FOREIGN KEY (TrainerID) REFERENCES Trainer(ID)
+)
+GO
 -- ================================================
 
 -- Table: TrainerSchedule
