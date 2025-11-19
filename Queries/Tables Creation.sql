@@ -22,7 +22,8 @@ CREATE TABLE Trainer (
     EmploymentStatus VARCHAR(20),
     Specialization VARCHAR(100),
     Salary float,
-    HiringDate DATE
+    HiringDate DATE,
+	Seniority VARCHAR(20)
 ) on GymPerson
 GO
 
