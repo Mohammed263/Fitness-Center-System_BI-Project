@@ -94,7 +94,7 @@ go
 create or alter proc Branch_Feedback @Branch nvarchar(max)
 as
 begin
-select f.description, b.Location, count(tf.FeedbackID) as 'Feedback Count', YEAR([date]) AS [year]
+select b.Location, f.description, avg(tf.Rating) as 'Average Rating'
 from branch b 
 join Trainee t
 on b.ID = t.BranchID
@@ -102,9 +102,10 @@ join TraineeFeedback tf
 on t.ID = tf.TraineeID
 join Feedback f
 on tf.FeedbackID = f.ID
-where b.ID in (SELECT CAST(value AS INT) 
-        FROM STRING_SPLIT(@Branch, ','))
-group by b.Location, f.Description, YEAR([date]) 
+--where b.ID in (SELECT CAST(value AS INT) 
+      --  FROM STRING_SPLIT(@Branch, ','))
+group by b.Location, f.Description
+order by b.Location, [Average Rating] desc
 end
 
 
